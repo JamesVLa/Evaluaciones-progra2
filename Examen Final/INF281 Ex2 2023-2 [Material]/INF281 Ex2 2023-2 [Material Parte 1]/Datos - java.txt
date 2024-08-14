@@ -1,0 +1,370 @@
+P9A-528   CASTILLO/MEJIA/GUSTAVO-ALONSO   Lima   Ica   Arequipa   Moquegua   Tacna   3   10
+H9R-580   SAENZ/ARANDA/WILMER   Lima   Junin   Pasco   Pucallpa   8   25
+V1S-429   CALIXTO/TORRES/MIGUEL   Lima   Huanuco   Pucallpa   Yurimaguas   Iquitos   5   15
+Z0V-608   ZARATE/URBINA/DELIA   Lima   Huaraz   Trujillo   Cajamarca   Chachapoyas   Tarapoto   7   22
+Q8B-464   ZAMORA/CABRERA/CARMEN   Lima   Huaraz   Trujillo   Chiclayo   Piura   Sullana   Tumbes   9   25
+M3H-482   CABRERA/MORENO/DELIA-ESTEFANIA   Lima   Huacho   Pasco   9   25
+G8Y-563   FLORENCIO/POLO/FIORELLA-ERIKA   Lima   Ayacucho   Abancay   15   33
+W0O-821   CHUNG/ZUNIGA/ZKENIA-IRMA   Lima   Ayacucho   Abancay   Cuzco   Puno   5   24
+Q6F-925   JOLAY/CHUMPITAZ/WALTER   Lima   Arequipa   Juliaca   Puno   7   20
+G7Y-809   TABORI/ARIAS/ROSARIO   Lima   Arequipa   Cuzco   Puerto-Maldonado   9   25
+F1D-694   RODRIGUEZ/SERRANO/CESAR-JAIME   Lima   Huancavelica   Ayacucho   4   19
+I1X-633   VILCARA/JUGO/JULIO   Lima   Huancavelica   Pasco   Huanuco   Tingo-Maria   5   20
+H7K-813   AMEZQUITA/CONTRERAS/HUMBERTO-ALFONSO   Lima   Huaraz   Huanuco   Moyobamaba   8   25
+W4M-272   SHIRAKAWA/FLORIAN/JAIME-JULIAN   Lima   Moquegua   Tacna   10   20
+S0M-437   COLLADO/VILLA/RAUL   Lima   Trujillo   Piura   Tumbes   9   27
+U3G-207   PEREZ/ANTEZANO/DAVID-CARLOS   Lima   Pisco   Ica   Nazca   7   20
+W4X-437   ZEGARRA/CABELLO/CINTHIA-MILENA   Lima   Chiclayo   Paita   Sullana   Talara   5   15
+M9J-101   NORABUENA/ZEGARRA/DELICIA   Lima   Huacho   Cimbote   10   31
+FIN
+P    85152986    MUNOZ/VERGEL/EDGAR    Abancay    5    Gaseosa    Pisco    Vino    Pantuflas    Antifaz
+T    16552775    YALLICO/PAREDES/LOURDES-CARMELA    Paita    S    N
+T    91897732    GAMARRA/ALCOCER/VIRGINIA    Nazca    N    N
+T    76388967    GONZALES/QUIO/ISABEL    Junin    N    S
+P    43488351    MINAYA/CERNA/LORENA-FIORELLA    Nazca    4    Audifonos    Antifaz    Pisco    Whisky
+T    69975105    VALDERRAMA/MENDOZA/LUIS-ADOLFO    Huanuco    N    N
+P    81274303    BARRIOS/TOMASICHE/CARLOS-ALBERTO    Yurimaguas    2    Almohada    Antifaz
+P    68445757    LANDA/PISCOYA/CHRISTIAN    Pisco    2    Pisco    Vino
+P    87813843    AYALA/ACUNA/RONY-ALEX    Puerto-Maldonado    4    Antifaz    Cobertor    Whisky    Pisco
+P    59407188    CANALES/MOYA/ALONSO-JULIO    Trujillo    3    Antifaz    Whisky    Pisco
+T    65802912    ZAMBRANO/MOSCOSO/OFELIA-MARIA    Nazca    N    S
+P    71984468    IPARRAGUIRRE/VILLEGAS/NICOLAS-EDILBERTO    Pisco    4    Audifonos    Almohada    Cobertor    Whisky
+T    25171011    CRUZ/JUGO/SANDRO-FAUSTO    Arequipa    S    N
+P    61358228    CABRERA/LUNA/SHIRLEY-ISABEL    Huacho    2    Pisco    Whisky
+T    39923112    SEGURA/MALCA/RONY    Arequipa    S    N
+T    41368424    DIAZ/REYES/WALTER-EDGAR    Juliaca    N    S
+T    44888415    ARANDA/MINAYA/JANET-CINTHIA    Cimbote    N    N
+T    53759600    PRADO/FALCON/EDGAR-RICHARD    Pisco    S    S
+P    39417975    MEJIA/DE-LA-HAZA/FRANCISCO-EDGAR    Talara    2    Whisky    Gaseosa
+T    15988939    RAMIREZ/ASTETE/KARINA-ESTEFANIA    Puerto-Maldonado    N    N
+T    22777006    ASMAD/PINTO/MARIA-LORENA    Paita    S    S
+P    87000267    BENAVENTE/ARANDA/MOISES    Huacho    3    Audifonos    Vino    Almohada
+T    23972672    HIJAR/PAIRAZAMAN/JENNY-DELICIA    Huaraz    N    N
+T    87800799    QUIROGA/SALAZAR/JOHNNY-ROBERTO    Arequipa    S    S
+T    90237332    ESPINOZA/CASTRO/YDALI-GIOVANA    Puno    S    N
+T    67418025    MOSCOSO/SUELDO/MARINA    Moquegua    S    S
+P    77484838    EPIQUEN/ALAMO/NANCY    Ica    3    Antifaz    Vino    Pantuflas
+T    21589652    VEGA/SORIA/HENRRY    Abancay    N    N
+P    17972674    PISCOYA/PORTUGAL/WALDEMAR-GUSTAVO    Abancay    3    Whisky    Cobertor    Audifonos
+T    78755618    DE-LA-CUBA/JUGO/LUCERO-DELICIA    Moquegua    S    N
+T    59297012    AYALA/ZEVALLOS/JOHAN-ENRIQUE    Arequipa    N    S
+P    24833706    HAZA/CABRERA/ALBERTO    Tarapoto    1    Pantuflas
+T    16151792    DURAND/CASTRO/FLOR-MARTHA    Cuzco    S    S
+T    78239339    SUELDO/RUIZ/ANTONIO    Moyobamaba    N    S
+T    64394265    SALAZAR/GONZALES/DAVID-RAFAEL    Ica    N    N
+T    31611146    LANDEO/LARRIEGA/MARTIN    Tacna    N    S
+T    48090595    TRIGUEROS/JUGO/LUZ    Tingo-Maria    N    S
+T    94675504    VILLEGAS/PALOMINO/DORIS-FREYSA    Puerto-Maldonado    S    S
+P    35956910    VEGA/MUNOZ/GONZALO    Iquitos    2    Gaseosa    Almohada
+T    17182437    CALDERON/ORTEGA/GUILLERMO    Puno    S    S
+T    83302451    HENRIQUEZ/ESPINO/BEATRIZ    Pisco    N    N
+P    67592501    MORI/SUAREZ/EDILBERTO-JESUS    Huacho    5    Almohada    Gaseosa    Pisco    Vino    Audifonos
+T    97704824    MORI/CARO/FREYSA    Huancavelica    S    N
+T    42798099    ZEGARRA/MUNOZ/SONIA-GUIDA    Puno    N    S
+T    15561764    VILLEGAS/CASTRO/ALONSO    Sullana    N    N
+T    73775471    LOZADA/AGUERO/ANTONIO-ELOY    Huancavelica    S    N
+P    52256304    SUAREZ/MUNOZ/MADELEINE    Trujillo    1    Antifaz
+T    11602775    HIJAR/ARCA/ADOLFO    Huancavelica    S    N
+P    70532120    CRUZ/FUENTES/JOHANA-YDALI    Tumbes    2    Almohada    Antifaz
+T    11743727    REYES/TANG/EDWARD    Yurimaguas    N    N
+T    89298238    ALFARO/PRECIADO/JOHNNY    Paita    S    S
+T    41036366    JUSTINO/LOYOLA/JENNY-MAGDA    Puerto-Maldonado    N    N
+T    34057485    VEGA/GARCIA/JANET-REBECA    Ica    N    S
+P    26221442    PRECIADO/PINTO/SURAMI-HELI    Cajamarca    5    Almohada    Audifonos    Gaseosa    Antifaz    Pisco
+T    40348917    VEGA/TSUKAZAN/VALENTINA    Ica    N    S
+T    42804086    FARFAN/FALCON/ELIZABETH-KARIN    Chiclayo    N    S
+P    35039741    ACUNA/YINO/ROCIO-YOLANDA    Puerto-Maldonado    2    Pantuflas    Pisco
+T    52338712    CHAVEZ/PRADO/SILVANA    Tumbes    N    S
+P    58187172    SUAREZ/ZIMIC/MOISES    Cajamarca    3    Pantuflas    Vino    Whisky
+T    69990549    PRADO/VERGEL/CARLOS-JULIAN    Tingo-Maria    N    S
+P    55661032    FLORIAN/MORALES/YDALI    Ica    2    Almohada    Whisky
+T    27329072    CALIXTO/CASTILLO/ERICK-PAUL    Talara    S    N
+T    77191257    CORRALES/ZUNIGA/JENNY    Paita    N    S
+T    79420973    AURIS/JOLAY/DIANA    Piura    N    N
+T    23716946    SHIRAKAWA/MIRANDA/MADELEINE    Piura    N    N
+P    24829546    DURAND/MEZA/WALDEMAR-EDGARD    Trujillo    1    Cobertor
+T    78475257    JAUREGUI/BRAVO/LUZ-SOFIA    Cajamarca    N    S
+T    50365593    SUAREZ/BRAVO/MARIELLA-TATIANA    Sullana    N    S
+T    22344625    CUBA/POMAJAMBO/VICTORIA-FIORELLA    Tingo-Maria    N    N
+T    93845419    QUIO/GAVIDIA/DIALY-FELICITA    Moyobamaba    S    S
+T    48832211    FORZANI/CARO/ALONSO    Ayacucho    N    S
+T    84551054    PAREDES/PATINO/CHRISTIAN    Moquegua    N    N
+T    95751208    CORONEL/ZEGARRA/FIORELLA    Cajamarca    S    S
+T    45749698    CORREA/VIZCARDO/MIGUEL    Tacna    N    S
+T    61002359    DELGADO/GONZALES/GUILLERMO-ALFONSO    Juliaca    S    N
+P    74067467    YEP/ZAVALETA/ROSARIO-MARIBEL    Pisco    5    Gaseosa    Cobertor    Audifonos    Almohada    Vino
+P    66066730    SAKAGUCHI/MORI/CARLOS-RONAL    Paita    1    Vino
+T    45783712    POZO/CHUNG/RAFAEL    Trujillo    S    N
+T    33397650    RONDON/EGUSQUIZA/CARMELA-VALENTINA    Cimbote    S    S
+T    17711594    MALDONADO/FLORIAN/JOHANA    Huaraz    S    S
+T    87027873    AURIS/SALAZAR/MADELEINE-GUIDA    Tacna    N    N
+T    56196922    ORTIZ/DURAND/RAUL    Huacho    S    N
+T    63437380    PINTO/CABELLO/SILVIA-FELICITA    Puerto-Maldonado    N    S
+T    58464455    CERNA/PAIRAZAMAN/FIORELLA-MARGOT    Cuzco    S    S
+T    73786035    ORTIZ/EPIQUEN/HENRY-ISRAEL    Paita    N    S
+T    30057152    CHUMPITAZ/PALOMARES/VIRGINIA    Nazca    N    S
+T    98140264    ALAMO/ZEGARRA/ISRAEL-GUSTAVO    Paita    S    N
+T    31193794    GARCIA/YINO/AMERICO-WALDEMAR    Nazca    S    N
+T    19515050    ARCA/AQUINO/DELICIA    Ica    S    S
+P    33332473    CARO/POLO/SANDRO    Tumbes    2    Pisco    Almohada
+P    76685676    VIZCARDO/SINCHE/MARIBEL    Talara    1    Pantuflas
+T    99995135    ARCA/LEIVA/DELICIA-ROSA    Huancavelica    N    S
+P    56364198    WONG/MARTEL/MADELEINE    Juliaca    2    Audifonos    Pisco
+T    50375303    SANCHEZ/HUAYANAY/DIALY-LUCERO    Pasco    N    N
+T    53693075    HENRIQUEZ/PORTUGAL/ALEX    Ica    S    S
+T    23086600    ARCA/AMEZQUITA/EDRIC-RONALD    Juliaca    N    S
+T    12663268    BARRERA/FLORES/ENRIQUE    Nazca    S    S
+T    96659352    BRAVO/VIZCARRA/ROBERTO    Cuzco    N    S
+T    74032894    CERNA/HIJAR/JOSE-ROLANDO    Nazca    N    S
+P    24596637    LAU/BACA/MONICA-TERESA    Arequipa    1    Pantuflas
+P    45132265    DIAZ/ANTEZANO/MAGALI-SILVANA    Huaraz    2    Audifonos    Pantuflas
+P    94080926    SORIA/CRUZ/MADELEINE    Tarapoto    4    Whisky    Cobertor    Pisco    Audifonos
+T    41347722    MEJIA/FLORIAN/ARTURO    Ica    N    S
+P    14170550    LANDEO/CHAVARRI/FAUSTO    Chiclayo    3    Vino    Whisky    Cobertor
+T    57263719    PRADO/TORREALBA/CARMEN-JANET    Ica    N    N
+T    75432503    MONTERO/MONTERO/ANNIE    Cuzco    N    S
+T    19580504    MONTERO/BOLANOS/OFELIA-BEATRIZ    Pasco    S    S
+P    98589725    FORZANI/ANTEZANO/OSCAR-JOSE    Chachapoyas    3    Antifaz    Vino    Cobertor
+T    81310110    MENDOZA/EGUSQUIZA/ROSARIO    Pucallpa    S    S
+P    63627446    VILLA/SEDANO/MARTIN-JUVENAL    Puerto-Maldonado    1    Audifonos
+P    48184351    LOPEZ/JAUREGUI/ROLANDO    Pasco    4    Whisky    Gaseosa    Audifonos    Almohada
+T    62566305    ROMERO/ALFARO/MONICA-JOHANA    Trujillo    N    S
+T    52097922    CUBA/DURAND/YVONNE    Moyobamaba    N    S
+P    27912250    CUBA/CHUNG/ISRAEL-EDILBERTO    Cajamarca    4    Gaseosa    Almohada    Pantuflas    Vino
+T    20790905    VILLA/YALLICO/TATIANA-NANCY    Huancavelica    N    S
+T    27473221    JUSTINO/NORABUENA/VIRGINIA-KARINA    Yurimaguas    S    N
+T    49087435    GALLO/MARTINEZ/VICTOR-GUILLERMO    Cimbote    N    N
+T    26247257    NARVAEZ/CASTILLO/JESUS-RAFAEL    Ayacucho    S    N
+T    54716824    VALVERDE/SEGURA/MIGUEL-JOSE    Yurimaguas    N    N
+T    28014253    GONZALES/ARIAS/HENRY    Iquitos    S    S
+P    93202947    VILCARA/CORREA/VICTOR    Chachapoyas    2    Vino    Pantuflas
+T    73831431    MALDONADO/RAMIREZ/SILVANA    Huaraz    S    S
+P    78922174    ALAMO/MEZA/ALVARO    Pisco    3    Pisco    Whisky    Almohada
+P    54761731    LOYOLA/IBEROS/ANGEL-GUSTAVO    Pucallpa    5    Audifonos    Pisco    Antifaz    Pantuflas    Almohada
+T    66433105    SERRANO/RAMIREZ/ARTURO-GUSTAVO    Chiclayo    N    N
+P    13588661    URBINA/CASTILLO/HELI    Yurimaguas    1    Audifonos
+P    24995742    MEREL/TAVERA/WALTER    Chiclayo    3    Vino    Gaseosa    Audifonos
+T    72652460    VALVERDE/MAEIREIZO/MELVIN-JAIR    Tacna    S    S
+T    87334863    URBINA/ANTEZANO/VALENTINA-PAULA    Iquitos    S    S
+T    38913831    FUENTES/TSUKAZAN/PATRICIA-OFELIA    Paita    S    N
+T    31419360    LAURA/WONG/MELVIN-HENRRY    Pucallpa    S    S
+P    45877001    SORIA/VILLA/HENRRY    Yurimaguas    4    Whisky    Vino    Cobertor    Almohada
+T    50862708    ZIMIC/SALAS/FRANCISCO    Junin    N    N
+T    29847168    ALDAVE/ZEVALLOS/ROSARIO    Yurimaguas    S    N
+T    37110873    VERGEL/HIJAR/JESUS    Moyobamaba    S    S
+T    78500352    IBEROS/VALDERRAMA/RAFAEL    Junin    N    S
+T    97738037    SOMA/PINTO/LOURDES-SONIA    Tacna    S    N
+T    89473250    JUSTINO/CRUZ/WILLIAMS    Puno    N    N
+P    33321424    MORALES/QUIROGA/SILVANA-GLENDA    Ayacucho    3    Almohada    Pisco    Audifonos
+T    95161027    FALCON/POZO/WALTER    Junin    N    N
+T    55626526    MOSCOSO/ARIAS/FIORELLA    Huaraz    S    S
+T    94326707    CHANG/SEGURA/ANGEL    Ica    N    N
+T    79875775    SALAS/AGUERO/DANIEL    Huaraz    N    N
+T    29337157    VIZCARDO/YEP/GUIDA-YOLANDA    Tarapoto    S    S
+T    62324793    GAVIDIA/MORENO/ISRAEL-ROLANDO    Cajamarca    N    S
+T    69639726    ROJAS/PATINO/GONZALO-JAIR    Trujillo    N    S
+T    42157219    LUNA/CUEVA/RICHARD    Moyobamaba    S    N
+T    38934372    FIGUEROA/COLLADO/EVERT    Cuzco    N    N
+T    69158037    PEREZ/FARFAN/RICHARD-SANDRO    Huaraz    S    S
+P    64877170    CALIXTO/TOMASICHE/MONICA-DORIS    Chiclayo    1    Gaseosa
+T    89148118    ZAMBRANO/LEYVA/ALVARO    Iquitos    N    S
+T    60184235    ASMAD/ACUNA/ANNIE-OFELIA    Abancay    S    N
+T    50349647    VILLEGAS/LEIVA/FELICITA    Tingo-Maria    S    S
+P    17366750    FERNANDEZ/ORTEGA/ELIZABETH-ELIZABETH    Huacho    2    Audifonos    Whisky
+T    32904023    PRADO/FORZANI/LOURDES    Chiclayo    S    N
+T    26233063    TSUKAZAN/AYALA/MARINA-MAGDA    Nazca    S    S
+P    19336444    MEJIA/DIAZ/BLANCA-MILAGROS    Puno    2    Antifaz    Gaseosa
+T    44248752    HENRIQUEZ/LEYVA/FERNANDO-WALTER    Cuzco    S    N
+P    33718985    LANDEO/ESTRADA/MIGUEL-ALEX    Sullana    5    Gaseosa    Pisco    Almohada    Whisky    Pantuflas
+T    43043986    LOZADA/VALVERDE/MOISES-HENRRY    Nazca    S    S
+T    30013565    SUCHERO/EPIQUEN/EDGAR-JAVIER    Abancay    N    S
+T    52650685    GUEVARA/MIYAKE/MILENA    Tumbes    S    N
+T    69937474    DIAZ/VELASQUEZ/MARINA-OFELIA    Moquegua    N    N
+P    13245501    ESCALANTE/YINO/EDWARD-GONZALO    Talara    3    Cobertor    Antifaz    Pantuflas
+T    80528968    BARRERA/MIRANDA/ALEXANDER-MARTIN    Pisco    S    N
+T    90153517    MERCADO/CORONEL/ELIA    Pisco    S    N
+T    15210391    QUIROGA/CASANOVA/BRUNO    Moquegua    N    S
+P    85871751    AYALA/LAURA/JANET    Puno    3    Pantuflas    Pisco    Vino
+T    52061162    CORONADO/FIGUEROA/JOHAN    Moyobamaba    S    S
+T    73914283    CASANOVA/CARBAJAL/RICARDO-ISRAEL    Paita    N    N
+T    17913944    PALOMARES/SANTISTEBAN/HENRRY    Huaraz    S    S
+T    53166028    CANO/CHUNG/EMILIO-NICOLAS    Tumbes    N    N
+T    40112594    CARO/RARAZ/CHRISTIAN-RONAL    Puno    S    S
+P    65745002    SINCHE/RIVERO/YVONNE-SILVANA    Yurimaguas    1    Whisky
+T    43877279    RARAZ/SUCHERO/ADOLFO    Tarapoto    S    N
+P    19477308    GAVIDIA/MENDOZA/RONALD-JOHNNY    Arequipa    1    Antifaz
+T    39598526    GONZALES/AGUIRRE/EMILIO-EMIGDIO    Puerto-Maldonado    N    S
+T    84857574    ZARATE/ACUNA/MILENA-CINTHIA    Juliaca    S    N
+T    99532801    PRECIADO/TOKESHI/HENRY    Chachapoyas    N    N
+P    52629673    PASQUEL/QUIO/SURAMI-JANET    Yurimaguas    2    Cobertor    Gaseosa
+T    47866569    NORABUENA/PRECIADO/CINTHIA    Tingo-Maria    S    N
+T    21814849    MARTEL/ASMAD/BRUNO-ROBERTO    Juliaca    N    S
+T    88956889    CHUMPITAZ/CARBAJAL/MARITZA    Moyobamaba    N    S
+T    24304492    ROMERO/PALOMARES/GLORIA-TATIANA    Huacho    S    S
+T    79372768    BERROCAL/YALLICO/ANNIE-SOFIA    Moyobamaba    S    N
+T    74217478    LOZADA/ARGUEDAS/FELICITA-VALENTINA    Cimbote    S    N
+P    79464412    PORTUGAL/RAFFO/ALEXANDER    Piura    5    Gaseosa    Vino    Almohada    Pantuflas    Pisco
+P    88995291    PEREZ/TORRES/MILAGROS-REBECA    Ica    3    Audifonos    Pantuflas    Almohada
+T    16159030    CORTEZ/SEGURA/CARMELA-INES    Tarapoto    S    S
+T    57690875    NORABUENA/VILLEGAS/ARTURO-RAFAEL    Talara    N    N
+P    84847055    SALAZAR/FIGUEROA/EVERT-JOHNNY    Pisco    3    Audifonos    Gaseosa    Vino
+P    28546649    LOPEZ/LAURA/FELICITA    Pasco    3    Pantuflas    Pisco    Antifaz
+T    99251008    SALAS/PENA/KARINA-CARMEN    Moyobamaba    N    N
+T    79475585    RETTO/ARCA/ANNIE-MAGDA    Sullana    S    S
+P    35679358    MOYA/ARANDA/JOHNNY    Puno    2    Pisco    Pantuflas
+T    62229503    BENITES/BENAVENTE/FLOR-PATRICIA    Chiclayo    S    S
+T    36380447    RIVERO/RETTO/JESUS    Cimbote    N    S
+P    16602777    ARROYO/TOMASICHE/NATALIA    Nazca   1  Whisky
+T    81190754    MEDINA/VELASQUEZ/MILENA-JENNY    Pucallpa    N    S
+T    25669913    VARGAS/GUEVARA/HUMBERTO-ALBERTO    Huacho    N    N
+T    59162728    HUAYANAY/CORTES/GLENDA-MARINA    Cimbote    N    N
+T    53054602    HIJAR/YEP/WILLIAMS-CHRISTIAN    Pisco    S    N
+P    40097416    CERNA/DURAND/MARTIN    Nazca    2    Antifaz    Pisco
+P    15171622    CORRALES/TSUKAZAN/IRMA-LOURDES    Juliaca    2    Gaseosa    Vino
+T    69965717    VELASQUEZ/HUAYANAY/EDGARD-HENRY    Abancay    S    S
+P    20337192    HERNANDEZ/CERNA/INES    Nazca    3    Pantuflas    Whisky    Cobertor
+T    39082665    GARCIA/ASTETE/VICTOR-EDGAR    Juliaca    S    N
+T    48467976    BENITES/SANCHEZ/MARGOT-DELICIA    Cimbote    N    N
+T    71378466    MIYAKE/CARO/HENRRY-EDGAR    Cajamarca    S    N
+P    18869687    ALAMO/PAIRAZAMAN/MIGUEL-ROBERTO    Talara    2    Antifaz    Gaseosa
+P    90365520    PALOMINO/ADAMS/SANDRO-RONALD    Huanuco    4    Cobertor    Antifaz    Vino    Audifonos
+T    24716202    PINTO/CALIXTO/SHIRLEY    Sullana    S    S
+T    22010173    HERNANDEZ/BARRIOS/EMILIO    Huaraz    S    N
+P    91510172    INGA/FLORES/CESAR-ADOLFO    Cimbote    2    Almohada    Cobertor
+T    90010594    EGUSQUIZA/BERROCAL/DORIS-NANCY    Cimbote    N    N
+T    69324480    FLORES/IPARRAGUIRRE/HENRRY-RICARDO    Piura    S    N
+T    64333011    JUSTINO/FORZANI/ERICKA-VICTORIA    Tarapoto    N    N
+T    73884562    PATINO/CHUNG/BEATRIZ-ROSA    Iquitos    N    N
+P    65873711    SALAS/URBINA/MAGDA-CARMEN    Chiclayo    1    Pantuflas
+P    32395559    SHIRAKAWA/ORTEGA/ANGEL    Cuzco    2    Pantuflas    Vino
+P    63124303    GAVIDIA/ESCALANTE/EVERT-GONZALO    Piura    2    Pisco    Whisky
+P    79238499    ACUNA/GORDILLO/LORENA-SURAMI    Talara    3    Audifonos    Almohada    Cobertor
+P    83756748    YOSHINARI/RIVERA/PAUL    Yurimaguas    2    Whisky    Audifonos
+T    28119151    ARROYO/GORDILLO/MARIA-HELI    Puerto-Maldonado    S    S
+T    32093968    MARTEL/MERCADO/TERESA-TERESA    Arequipa    S    S
+T    83236386    RIVERO/CORRALES/JUAN-FERNANDO    Iquitos    N    S
+T    81114108    ZAMBRANO/SHIRAKAWA/WILMER    Tarapoto    N    S
+T    79901434    SALAZAR/FLORENCIO/SANDRO-JOHNNY    Cimbote    N    S
+P    19829266    TOMASICHE/MEJIA/MELVIN    Talara    3    Audifonos    Almohada    Whisky
+T    28390487    IPARRAGUIRRE/PAREDES/RAUL    Trujillo    N    S
+T    78757121    ASTETE/SOLIS/FANNY    Talara    N    S
+T    71762850    VALDERRAMA/CHANG/JOHAN-JUVENAL    Iquitos    S    N
+P    71463316    PRADO/CALIXTO/KARIN    Sullana    3    Whisky    Almohada    Pisco
+T    73185299    CORTES/LANDA/SURAMI    Cuzco    S    S
+T    50222718    GORDILLO/YINO/YVONNE-ROSARIO    Piura    S    N
+T    80208319    SUAREZ/MORALES/AMARU    Moyobamaba    S    S
+T    84265465    BRAVO/CORTES/JANET-FLOR    Juliaca    S    S
+T    47944203    PAIRAZAMAN/ALAMO/MOISES-MIGUEL    Huanuco    N    S
+P    47917936    RAFFO/CHUNG/ADRIA-GLORIA    Tumbes    2    Vino    Audifonos
+T    19449476    ROSEMBERG/LAU/JULIO-HENRRY    Pasco    N    N
+P    61270996    CHUMPITAZ/IBEROS/RONAL    Tarapoto    2    Pisco    Audifonos
+T    47632196    MORALES/VALVERDE/INES-MARTHA    Arequipa    S    N
+T    45232784    VASQUEZ/PAZ/ALEX-MARTIN    Tacna    S    S
+P    48902750    BENAVENTE/AYALA/VIRGINIA-IRMA    Ica    2    Cobertor    Antifaz
+P    60359888    CABELLO/LAM/ALFONSO-WALDEMAR    Nazca    5    Pantuflas    Vino    Cobertor    Antifaz    Whisky
+T    45828535    SEDANO/MERCADO/FIORELLA-GLORIA    Pasco    S    N
+T    90983614    ESCALANTE/ESPINO/EMIGDIO-FRANCISCO    Pucallpa    S    N
+P    75454254    CAMACHO/AGUERO/ELIA-ROSA    Cimbote    2    Vino    Cobertor
+T    90404826    ESCALANTE/ROJAS/INES-ADRIA    Iquitos    S    N
+T    90665950    SAM/YALLICO/INES    Puno    N    S
+T    83505958    CONTRERAS/MEZA/ERIKA-BLANCA    Pucallpa    S    N
+T    46462527    LOYOLA/MORI/NICOLAS-FERNANDO    Pucallpa    N    N
+P    42593311    PISCOYA/BRAVO/CESAR-BRUNO    Tingo-Maria    2    Almohada    Antifaz
+P    99315346    CASTRO/SUAREZ/ROLANDO    Huanuco    2    Audifonos    Antifaz
+T    36008913    CASTILLO/ZAMORA/VICTOR-NESTOR    Sullana    N    S
+P    22280452    GONZALES/MALDONADO/ZKENIA-ERIKA    Arequipa    4    Cobertor    Audifonos    Antifaz    Whisky
+P    62303425    CABRERA/MORI/GLENDA    Cimbote    5    Pisco    Gaseosa    Whisky    Almohada    Antifaz
+P    42172802    PRECIADO/RIVERO/JOHANA    Moyobamaba    3    Vino    Pantuflas    Audifonos
+P    18297138    AYALA/VIZCARDO/EDGAR-MANUEL    Abancay    1    Pantuflas
+T    59608456    LANDEO/SUELDO/ADOLFO    Tumbes    N    N
+T    59602968    LOZADA/IBEROS/HELI-BLANCA    Paita    N    S
+T    36931603    ORTIZ/GUEVARA/YLIANA-FLOR    Ica    N    S
+T    87503190    CASTILLO/CHUNG/FELICITA-ERIKA    Junin    N    N
+T    42436159    SANTISTEBAN/MEZA/ROSA    Chachapoyas    S    S
+T    20864087    ZEGARRA/CASANOVA/ESTEFANIA    Puerto-Maldonado    S    S
+T    26290971    SANTISTEBAN/AYALA/CAROLA-MARITZA    Pucallpa    N    N
+T    99289525    PORTUGAL/BENAVENTE/JOHANA-GLORIA    Cuzco    N    N
+T    92039993    VARGAS/ALAMO/DANIEL    Huaraz    S    S
+P    22129918    PRADO/VERA/JUAN    Sullana     1  Almohada
+P    93862741    VALVERDE/BERROCAL/RONY-GONZALO    Chachapoyas    2    Vino    Cobertor
+T    20667571    AQUINO/TORO/VALENTINA-ROCIO    Ica    S    S
+T    79140840    TORREALBA/ARCA/VICTORIA-GLENDA    Huaraz    S    N
+T    86828079    PRECIADO/ADAMS/ERIKA-DELIA    Moyobamaba    N    N
+T    86402303    RUIZ/RUIZ/OFELIA-DELIA    Huacho    S    S
+P    44472907    FALCON/PRECIADO/ALEX-HENRY    Pisco    1    Pantuflas
+T    31879918    MEJIA/HUAYANAY/CHRISTIAN-ALONSO    Puno    S    S
+P    52027852    ASTETE/RIOS/CESAR-WILVER    Nazca    1    Almohada
+T    35565959    VILCARA/RODRIGUEZ/ANNIE    Yurimaguas    S    S
+T    38637282    TABORI/CARBAJAL/YDALI-MAGDA    Tingo-Maria    S    N
+T    60574154    LOZADA/GONZALES/JAIME    Talara    N    N
+T    96258632    FLORENCIO/GARCIA/WALTER    Pisco    N    N
+T    48537380    PATINO/BOLANOS/DELICIA-VIRGINIA    Sullana    S    N
+T    90687076    MERCADO/CARO/OFELIA-CARMEN    Paita    S    N
+P    23715594    PAIRAZAMAN/RAFFO/TATIANA-DELICIA    Iquitos    1    Pantuflas
+P    78078115    TSUKAZAN/AMEZQUITA/DELIA    Pasco    4    Pantuflas    Almohada    Whisky    Antifaz
+T    89863424    SANTISTEBAN/BRAVO/EDGARD    Pasco    N    S
+T    93553218    SUAREZ/BOLANOS/RAFAEL    Arequipa    S    S
+P    29594780    PALOMARES/VERA/HENRRY-HUMBERTO    Moquegua    2    Pantuflas    Whisky
+T    27530155    LANDA/CABRERA/JAVIER-EDGARD    Yurimaguas    S    N
+T    31117769    LOZADA/YINO/MARTHA    Cajamarca    S    N
+T    55552996    SUCHERO/PRECIADO/MILAGROS-ERICKA    Puno    S    N
+T    27635082    CONTRERAS/GUEVARA/MARINA    Tarapoto    S    S
+T    77642521    SORIA/CASTILLO/LUIS-GUSTAVO    Arequipa    N    S
+T    43053402    BENAVENTE/ZIMIC/MADELEINE-ZKENIA    Tingo-Maria    N    S
+T    44229880    PALOMARES/BARRIOS/EDWARD-CESAR    Moyobamaba    S    N
+T    84165595    SALAMANCA/GAVIDIA/ALEX    Paita    N    S
+T    80294521    CHUMPITAZ/ALCOCER/ANGEL-ERICK    Trujillo    N    S
+T    51673086    SAM/ESTRADA/MARINA-ESTEFANIA    Cimbote    S    S
+P    18523250    CHUNG/LEE/ALVARO    Tumbes    2    Almohada    Vino
+T    44679500    CORREA/ARCA/HELI    Puno    S    N
+T    95015539    CHANG/SAONA/RONALD    Ica    S    N
+P    19291013    RUIZ/GORDILLO/CAROLA-ERIKA    Trujillo    1    Almohada
+T    54073409    RAFFO/ARIAS/SURAMI-ANNIE    Huaraz    S    S
+T    47925388    MIRANDA/CHUMPITAZ/ALFONSO    Tumbes    N    N
+T    80048864    JUSTINO/CASTILLO/SANDRO-CHRISTIAN    Tumbes    N    N
+T    49593787    ARCA/URBINA/ISRAEL-CHRISTIAN    Pisco    S    N
+T    74028555    ANTEZANO/SEGURA/TERESA-DELIA    Moyobamaba    S    N
+T    20229814    SOLIS/CHUNG/ROLANDO    Huancavelica    N    N
+T    99250306    AQUINO/BACA/ALEX    Huancavelica    N    N
+T    32565207    RIVERA/ZARATE/MARINA    Yurimaguas    N    S
+T    66409237    CANO/DELGADO/WILLIAMS    Chiclayo    N    S
+T    92040310    VALVERDE/FLORES/IRMA-YDALI    Talara    S    S
+T    86241107    SANCHEZ/EPIQUEN/EDGAR-MELVIN    Talara    N    S
+T    98297137    RETAMOSO/BARRERA/OSCAR    Trujillo    S    N
+P    58821689    CORONEL/CHUMPITAZ/HELI    Juliaca    2    Audifonos    Gaseosa
+T    17266507    FLORENCIO/CORONADO/ALONSO    Huaraz    N    S
+T    37787771    ACUNA/AYLLON/BLANCA-LUZ    Juliaca    N    S
+T    42463525    AMEZQUITA/EPIQUEN/EVERT-ROBERTO    Ica    N    S
+P    99842319    MARTINEZ/MARTINEZ/CARMELA    Arequipa    3    Gaseosa    Audifonos    Cobertor
+T    41722980    CONTRERAS/CHANG/JOHANA-CINTHIA    Tarapoto    S    S
+T    17739376    BENITES/RAFFO/OFELIA-LUZ    Chiclayo    N    S
+T    59347357    ASMAD/CHAVEZ/ADRIA    Ayacucho    N    N
+T    93160528    SANTISTEBAN/MARTEL/MARTIN-LUIS    Nazca    S    N
+T    35584593    LAM/VIZCARDO/MILAGROS-YVONNE    Arequipa    N    N
+T    47241133    MIYAKE/MEREL/MADELEINE-YLIANA    Ayacucho    N    N
+P    97403853    PISCOYA/MALCA/MARIA-MONICA    Abancay    3    Cobertor    Gaseosa    Antifaz
+T    73905548    GARCIA/INGA/MARINA-NATALIA    Cajamarca    N    N
+P    73535476    AYALA/SANCHEZ/MARIA-TERESA    Piura    4    Pantuflas    Vino    Pisco    Almohada
+T    78862029    URBINA/HIJAR/RAFAEL    Pucallpa    S    S
+T    97934179    SANCHEZ/PRECIADO/SANDRO-WILMER    Puno    S    N
+T    44033308    JAUREGUI/DEL-CASTILLO/VICTOR-RICARDO    Chachapoyas    N    N
+T    26976877    TORO/DE-LA-CUBA/DIALY-DIANA    Huacho    N    N
+T    33713901    VILLEGAS/CASTRO/SOFIA-VIRGINIA    Moyobamaba    S    S
+T    96994320    DIAZ/CORREA/IRMA-VIRGINIA    Iquitos    N    S
+T    78377191    DURAND/VALVERDE/ENRIQUE-JORGE    Huancavelica    N    S
+T    85949265    LEYVA/GONZALES/CINTHIA    Tarapoto    N    S
+T    91932848    MEJIA/ZEGARRA/GIOVANA    Abancay    N    N
+T    27777608    HENRIQUEZ/DIAZ/SILVANA-DIANA    Talara    S    S
+T    36297392    ZARATE/DEL-POZO-HUMBERTO-ANTONIO    Pisco    S    S
+T    88830718    SHIRAKAWA/SAONA/VICTORIA-MILAGROS    Ayacucho    N    N
+T    42928709    HERNANDEZ/MALCA/VIRGINIA    Huacho    S    N
+T    62935160    CABRERA/CANALES/GUILLERMO-EDRIC    Piura    S    N
+P    25504077    LAU/VIZCARRA/HECTOR-ALEX    Pasco    3    Whisky    Gaseosa    Antifaz
+P    89429489    SERRANO/IPARRAGUIRRE/VIRGINIA    Cimbote    4    Almohada    Antifaz    Whisky    Vino
+P    23928045    ARCA/VILCA/RONALD    Tumbes    3    Antifaz    Audifonos    Whisky
+T    32821689    ZAVALETA/EPIQUEN/CARMEN-ZKENIA    Chachapoyas    S    N
+P    33132202    DE-LA-CUBA/PAIRAZAMAN/ALBERTO    Pisco    2    Almohada    Gaseosa
+T    22899205    SALAZAR/CORRALES/LORENA-IRMA    Huanuco    S    N
+T    18843347    MEREL/SALAZAR/ANNIE-LOURDES    Puerto-Maldonado    S    S
+T    35065161    AURIS/ZIMIC/JAVIER-DANIEL    Pasco    S    N
+

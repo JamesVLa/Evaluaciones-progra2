@@ -1,0 +1,53 @@
+R TER-1004 Terraza 2 María-Gómez
+R SAL-1004 Salón 6 Ana-Martínez
+R SAL-1009 Salón 2 Pedro-López
+R SAL-1002 Salón 4 Carlos-Rodríguez
+R SAL-1007 Salón 6 Pedro-López
+R SAL-1003 Salón 4 Carlos-Rodríguez
+R TER-1003 Terraza 2 María-Gómez
+R SAL-1011 Salón 2 María-Gómez
+R SAL-1008 Salón 2 Pedro-López
+P SP1-1001 Salón-Elite 10 Laura-Sánchez Alejandro-Díaz 3 Televisor Bar Audio
+R TER-1002 Terraza 6 Juan-Pérez
+R SAL-1006 Salón 5 Ana-Martínez
+P SP3-1003 Salón-Ejecutivo 8 Sofía-Ruiz Miguel-González 3 Audio WIFI Balcón
+R TER-1001 Terraza 4 Juan-Pérez
+R SAL-1010 Salón 2 Juan-Pérez
+P SP2-1002 Salón-VIP 12 Alejandro-Díaz Sofía-Ruiz 5 Televisor Bar Baño Audio WIFI
+R SAL-1001 Salón 4 Carlos-Rodríguez
+R TER-1005 Terraza 2 María-Gómez
+FIN
+R 98765432 Sergio-Díaz T 2 21.5 N
+R 65432109 Ana-Martí T 3 19.5 N
+R 54321098 Pedro-López T 2 19.5 N
+C 48765432 Marina-Díaz S 1 21.5 N 2 Sésamo Glutamato-Monosódico
+R 83210987 David-Rodríguez S 2 21.5 N
+C 21098765 Hugo-Sánchez T 2 19.5 A 2 Nueces Trigo
+R 98063439 Juan-Pérez T 2 19.5 N
+C 83210988 Eva-Sánchez T 2 21.5 N 1 Crustáceos
+C 10987654 Julia-Martín S 3 19.5 G 2 Mostaza Sésamo
+R 74321098 Silvia-López T 2 21.5 N
+R 76543210 Carlos-Rodríguez S 1 19.5 N
+R 99876543 Sara-Sánchez S 3 21.5 N
+C 87654321 Paula-Martínez T 2 19.5 N 2 Gluten Pescado
+R 65032139 Mario-Gómez T 3 21.5 N
+C 64437109 Martina-Gómez S 1 19.5 A 2 Glutamato Pescado
+C 32109876 Carmen-Díaz S 2 19.5 C 1 Lácteos
+R 21091115 Jorge-Hernández S 3 19.5 N
+C 99876544 Marta-García S 2 21.5 N 1 Sulfitos
+C 48760148 Isabel-Ruiz T 3 19.5 G 2 Pescado Lácteos
+R 21983456 Daniel-Martínez S 2 19.5 N
+P 54101098 Hugo-Pérez 10 G Televisor Bar Audio 3
+R 91098765 Cristina-Martínez T 2 21.5 N
+R 87654300 María-Gómez S 4 19.5 C
+C 74321088 Marcos-Pérez S 2 21.5 N 2 Moluscos Glutamato-Monosódico
+P 44543209 Martín-Hernández 8 C Audio Balcón 2
+C 43210987 Víctor-Pérez T 2 19.5 N 1 Mariscos
+P 65481709 Elena-Martínez 8 A Televisor Bar Baño Audio WIFI 5
+C 57654321 Alejandro-López T 3 21.5 N 1 Huevos 
+R 39876543 Andrea-Sánchez T 2 21.5 N
+R 43210988 Marta-Ruiz S 2 19.5 N
+C 61905409 Lucía-Martínez T 2 21.5 N 1 Soya
+R 38165432 Pablo-Martín S 4 21.5 N
+C 91048766 Pablo-Ruiz T 3 21.5 C 1 Apio
+R 62109877 Laura-García T 2 19.5 N

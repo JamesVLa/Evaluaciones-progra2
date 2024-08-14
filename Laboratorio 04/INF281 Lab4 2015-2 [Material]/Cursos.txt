@@ -1,0 +1,98 @@
+CIV224,Analisis Estructural 1
+CIV283,Instalaciones de Edificaciones
+CIV284,Planificacion de la Construccion
+CIV307,Concreto Armado 2
+CIV308,Estructuras de Acero
+CIV309,Diseno de Estructuras Especiales
+CIV313,Puentes
+CIV314,Croncreto Pretensado
+CIV364,Albanileria Estructural
+DEC210,Personas Juridicas
+DEC222,Derecho Procesal Civil 1
+DEC231,Derecho Civil 6: Familia
+DEE204,Derecho Administrativo 2
+DEE207,Derecho Internacional Publico
+DEE214,Derecho Constitucional 1
+DEE215,Derecho Constitucional 2
+DEL203,Derecho Laboral General
+DEL204,Derecho Laboral Especial
+DER202,Sociologia del Derecho
+DER205,Filosofia del Derecho
+DET211,Legislacion Tributaria
+FIS308,Mecanica Cuantica 1
+FIS309,Mecanica Cuantica 2
+FIS335,Acustica
+FIS338,Seminario de Fisica
+FIS366,Electroacustica
+IEE203,Circuitos Analogicos
+IEE212,Circuitos Electricos 2
+IEE213,Dibujo Electrotecnico
+IEE217,Sistemas Electricos
+IEE313,Microelectronica
+IEE331,Diseno de Redes de Computadoras
+IEE332,Laboratorio de Redes de Computadoras
+IEE341,Propagacion y Radiacion Electromagnetica
+IEE351,Temas de Ingenieria Electronica
+IND213,Ingenieria de Plantas
+IND221,Automatizacion Industrial
+IND350,Plan de Negocios
+IND352,Procesos de Decision
+IND361,Gestion de Recursos Humanos
+IND362,Mantenimiento Industrial
+IND374,Temas de Investigacion de Operaciones
+IND375,Temas de Gestion
+IND376,Temas de Operaciones
+INF227,Desarrollo de Programas 2
+INF239,Sistemas Operativos
+INF245,Ingenieria de Software
+INF248,Sistemas de Informacion 1
+INF265,Aplicaciones de Ciencias de la Computacion
+INF274,Administracion de Sistemas Operativos
+INF281,Lenguaje de Programacion 1
+INF627,Programacion en el Sistema UNIX
+INF630,Base de Datos 2
+INF639,Proceso de Construccion de Software 1
+INF640,Proceso de Construccion de Software 2
+ING301,Manufactura Integrada por Computadora
+LIT201,Literatura Medieval Espanola
+LIT204,Literatura Contemporanea Espanola
+LIT209,Lirica peruana contemporanea
+LIT234,Lirica espanola de la edad de oro
+LIT237,Teoria literaria contemporanea 2
+LIT244,Literatura Peruana del siglo XIX
+LIT246,Deontologia y lingÅistica y literatura
+LIT284,Seminario de tesis 1
+LIT306,Critica Textual
+LIT312,Teatro Espanol de la Edad de Oro
+LIT313,Narrativa espanola de la edad de oro
+MAT218,Ecuaciones Diferenciales Aplicadas
+MAT244,Algebra Lineal y Multilineal
+MAT245,Logica Matematica y Teoria de Conjuntos
+MAT251,Geometria
+MAT253,Topologia
+MEC206,Termodinamica 1
+MEC208,Termodinamica 2
+MEC227,Dibujo Mecanico 2
+MEC298,Proyecto de Ingenieria Mecanica 2
+MEC299,Motores de Combustion Interna
+MEC2M1,Elementos de Maquinas 1
+MEC337,Refrigeracion y Aire Acondicionado
+MEC346,Corrosion
+MEC348,Ingenieria de Combustibles Gaseosos
+MEC350,Metalurgia de la Soldadura
+MIN227,Topografia Minera
+MIN248,Transporte en Minas
+MIN250,Geologia de Yacimientos Minerales
+MIN258,Mineralogia y Petrologia
+MIN260,Perforacion y Voladura
+MIN266,Mecanica de Rocas
+MIN269,Concentracion de Minerales
+MIN344,Plan de Cierre y Recuperacion en Minas
+MIN346,Simulacion de Operaciones Mineras
+QUI204,Quimica Inorganica 1
+QUI206,Quimica Analitica 1
+QUI208,Quimica Analitica 2
+QUI211,Trabajo de Investigacion 1
+QUI221,Quimica Organica 1
+QUI223,Quimica Organica 2
+QUI237,Quimica Inorganica 3

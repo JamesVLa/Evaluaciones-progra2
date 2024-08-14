@@ -1,0 +1,94 @@
+ EST113   ,   Estadistica   aplicada   2            ,   3.50 , ESTADISTICA    
+ EST273 , Modelos   de   regresion avanzados     , 4.00 ,     ESTADISTICA        
+ IEE218   ,Laboratorio   de   sistemas electricos           , 1.00   ,INGENIERIA   ELECTRONICA     
+   MAT245 ,Logica Matematica   y     Teoria de Conjuntos     ,   3.50     ,     MATEMATICAS    
+   IND270     ,   Procesos   industriales         ,   3.00   ,INGENIERIA INDUSTRIAL 
+   IEE240     , Organizacion y arquitectura de     computadoras  , 5.00 , INGENIERIA     ELECTRONICA 
+ FIS312 ,     Fisica   experimental 1          ,   4.00 ,   FISICA 
+ CIV294 , Laboratorio   de mecanica de     suelos  ,1.00   , INGENIERIA   CIVIL 
+ IND275, Control de   gestion     industrial    ,   4.50, INGENIERIA INDUSTRIAL 
+ CIV224 , Analisis estructural     1            ,   4.50 ,     INGENIERIA CIVIL 
+ EST264 , Analisis   de supervivencia            ,4.50 , ESTADISTICA    
+INF265   ,Aplicaciones de     Ciencias     de la     Computacion , 4.00   ,INGENIERIA     INFORMATICA 
+MEC208   ,   Termodinamica   2         , 4.50 ,INGENIERIA MECANICA   
+ FIS220 ,   Tecnicas   computacionales   en   fisica   , 4.50 ,     FISICA    
+   MEC209 ,   Mecanica   de   fluidos         , 5.25,INGENIERIA   MECANICA   
+     MAT231   , Analisis   real   1        ,   4.50     ,MATEMATICAS    
+ CIV102   ,Instalaciones en edificaciones        ,3.50   , INGENIERIA     CIVIL   
+ CIV226     ,Concreto   armado   1                ,4.50, INGENIERIA CIVIL
+   EST266,   Mineria de   datos      ,     4.50   ,     ESTADISTICA        
+FIS110 ,   Trabajo   de investigacion 1           , 4.00     , FISICA  
+   IND290   ,Seguridad     integral               , 3.00, INGENIERIA   INDUSTRIAL   
+ MAT253   , Topologia                    ,     4.50   ,   MATEMATICAS      
+     MAT124 ,   Algebra     2             ,     4.50 , MATEMATICAS 
+     MEC2M2 , Elementos   de   maquinas   2         ,   3.50 ,   INGENIERIA   MECANICA
+ CIV202, Primera   practica supervisada   pre  profesional           , 0.50   , INGENIERIA CIVIL   
+   EST008 ,   Practica     supervisada   pre     profesional              ,     0.50, ESTADISTICA  
+ INF250     , Sistemas     de informacion   2    ,     5.00 , INGENIERIA     INFORMATICA
+ IND213 , Ingenieria de   plantas            , 3.50   ,   INGENIERIA INDUSTRIAL   
+ IND204 ,     Primera   practica supervisada     Pre-Profesional    ,   0.50,INGENIERIA INDUSTRIAL   
+CIV299, Campo   de   ingenieria   de carreteras     ,   1.50   , INGENIERIA   CIVIL   
+   INF239   ,   Sistemas   operativos           ,   4.00   , INGENIERIA   INFORMATICA   
+IEE216 ,   Laboratorio     de     maquinas electricas   1      ,   0.50,     INGENIERIA ELECTRONICA 
+   INF281   ,   Lenguaje   de   programacion 1  ,5.00 ,     INGENIERIA   INFORMATICA   
+   CIV244   ,     Mecanica   de     suelos     ,   4.50     ,     INGENIERIA   CIVIL   
+   FIS313 , Fisica   experimental   2         ,     4.00   , FISICA    
+     MEC286   , Transferencia     de calor           , 4.25 , INGENIERIA     MECANICA 
+     CIV284   , Planificacion   de     la   construccion           , 3.50   , INGENIERIA   CIVIL   
+   FIS247 ,     Optica   y fotonica        , 4.50     ,     FISICA          
+   FIS309,   Mecanica cuantica     2              ,   4.50   ,   FISICA    
+   MAT234,Ecuaciones   diferenciales     ordinarias            ,   4.50     , MATEMATICAS    
+     IND251     ,   Gestion   y     direccion   de     empresas    ,   3.50   , INGENIERIA INDUSTRIAL
+     EST280   ,     Proyecto   de   tesis   1       ,   2.00 ,     ESTADISTICA    
+MAT244 , Algebra lineal y     multilineal       ,   4.50,MATEMATICAS   
+ FIS240,Termodinamica y     mecanica   estadistica       ,     4.50   , FISICA  
+   IEE2A5   , Maquinas electricas         , 4.25   ,INGENIERIA ELECTRONICA   
+   MAT251     ,Geometria                ,     4.50, MATEMATICAS  
+ IEE232   , Laboratorio   de   diseno electronico     1    ,   1.00,   INGENIERIA     ELECTRONICA   
+ MEC245   ,   Laboratorio de termodinamica   general         , 1.00     ,INGENIERIA     MECANICA
+   MAT218   ,     Ecuaciones diferenciales   aplicadas              , 4.50,   MATEMATICAS          
+   FIS218 ,   Fisica moderna         ,     4.50   ,   FISICA    
+     EST271   , Finanzas     cuantitativas                   ,   4.50     , ESTADISTICA    
+   MEC284     , Control     automatico               ,   4.25 ,INGENIERIA     MECANICA 
+   INF282     ,     Lenguaje de   programacion   2    ,5.00     ,   INGENIERIA   INFORMATICA     
+   IEE233   ,   Diseno electronico   2       ,   4.50   ,   INGENIERIA   ELECTRONICA 
+ INF246 ,Bases     de     datos         ,   3.75 , INGENIERIA INFORMATICA     
+   CIV239   ,Ingenieria de cimentaciones          ,4.50 ,   INGENIERIA CIVIL 
+IND273   ,Investigacion   operativa   1         , 4.00 , INGENIERIA   INDUSTRIAL
+ IEE272     ,   Electricidad     industrial           , 2.50   , INGENIERIA ELECTRONICA 
+ IEE229 ,   Electronica   digital                   ,     3.75 , INGENIERIA ELECTRONICA 
+ MAT233     , Analisis     complejo       ,     4.50, MATEMATICAS  
+MAT243,Algebra   3                     , 4.50, MATEMATICAS      
+ IEE246   , Teoria   de control 1           ,   5.00 , INGENIERIA ELECTRONICA
+ IND214   ,   Control     integral     de   calidad    ,   3.50 ,INGENIERIA   INDUSTRIAL 
+ CIV259, Ingenieria     de carreteras   1         , 4.00   , INGENIERIA   CIVIL 
+   EST261     , Analisis   de   riesgos   y   seguros ,     4.50   ,   ESTADISTICA          
+   CIV276   ,Hidraulica     de canales   abiertos       ,   3.50 ,     INGENIERIA     CIVIL   
+MAT237 ,     Calculo numerico               ,     3.50   ,     MATEMATICAS    
+   IEE217   ,Sistemas     electricos           ,     3.50     , INGENIERIA ELECTRONICA 
+   MEC267 ,Ingenieria   de materiales          ,   4.00     ,   INGENIERIA   MECANICA 
+     FIS255     ,   Electromagnetismo   2           , 4.50   , FISICA     
+ EST268,   Series   de   tiempo            , 4.50 ,     ESTADISTICA    
+MEC270   ,Procesos de     Manufactura        ,   4.00 ,INGENIERIA MECANICA 
+ MAT232,   Analisis     real   2            ,4.50 ,MATEMATICAS    
+CIV277 , Laboratorio   de hidraulica de canales     abiertos     , 0.50 ,   INGENIERIA     CIVIL
+ IND231 ,Ingenieria   economica             ,3.50 ,   INGENIERIA     INDUSTRIAL   
+IND276, Laboratorio   de control   integral   de   calidad ,     1.00   , INGENIERIA INDUSTRIAL   
+EST218   ,   Estadistica     para   ingenieria              ,3.50   ,   ESTADISTICA  
+     IEE215   , Maquinas     electricas   1          ,4.50   ,INGENIERIA     ELECTRONICA 
+     FIS308 ,   Mecanica cuantica     1           ,   4.50   ,     FISICA  
+   CIV225   , Analisis estructural 2        ,3.50 ,     INGENIERIA CIVIL     
+     MEC202     ,   Primera   practica supervisada   pre-profesional       ,     0.50 , INGENIERIA MECANICA   
+ INF248     ,   Sistemas de     informacion   1     ,5.00 ,   INGENIERIA INFORMATICA   
+ FIS227 ,   Particulas elementales      , 4.50   , FISICA    
+   INF291   ,     Metodos y   procedimientos                ,3.50 ,   INGENIERIA     INFORMATICA
+ MEC288,   Proyecto de   Ingenieria mecanica     1      ,   4.00   , INGENIERIA   MECANICA   
+ MEC229,Procesos de   manufactura     2         ,4.00   ,   INGENIERIA MECANICA   
+   INF216   ,Estructura   de    datos   y    programacion     metodica  ,   4.50   ,     INGENIERIA INFORMATICA
+MAT230, Ecuaciones   diferenciales   parciales     ,   3.50     , MATEMATICAS        
+ IND331 ,   Sicologia   industrial             ,   3.00 ,INGENIERIA   INDUSTRIAL 
+ MEC2M1   ,     Elementos de   maquinas   1        , 4.50   ,INGENIERIA     MECANICA 
+   MEC227 ,     Dibujo   mecanico 2      , 3.00   ,   INGENIERIA   MECANICA 
+   EST277   ,   Metodologia     de la investigacion   en estadistica     ,3.00 , ESTADISTICA     
+   IEE222     ,     Diseno electronico   1          ,4.50   , INGENIERIA     ELECTRONICA
+INF263 , Algoritmia                      , 3.75 ,INGENIERIA INFORMATICA 

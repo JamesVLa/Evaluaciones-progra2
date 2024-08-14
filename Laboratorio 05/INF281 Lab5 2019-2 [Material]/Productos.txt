@@ -1,0 +1,46 @@
+A106001,Arroz 1 Kg
+A106002,Azucar Rubia 1 Kg
+A106005,Leche Evaporada
+A106021,Gaseosa Cocacola 1.5 litros
+A107933,Detergente Liquido 1 litro
+A107987,Detergente en Polvo 2 Kg
+A108231,Gaseosa Cocacola 2.5 litros
+A108239,Agua Mineral 2.0 litros
+A200214,Frugos de durazno 1.5 litros
+JS27568,Cocina a gas meza vitroceramica FFEF 3013
+CI87702,Ipod Dock AD 7000W
+UH03336,Cocina electrica   Panel digital FFGF 304L
+FZ98234,Memoria USB 4 GB
+TL56384,HP ENVY dv6 - 7382 LA
+IT60920,Home Theater Todoriki HTTP - RS 88
+CE69353,Parlantes inalambricos Bluetooth BTX 300
+WL09498,Radio audiovisual AVH - P8450BT
+SW29687,Telefono celular marca MiTel N 83 con camara de 3.5 MP
+FQ88002,Lapiz puntero Targus p ipad 3
+DX44682,Tostadora de pan con 4 slots 5632
+YY65200,Reproductor de discos Blu-Ray 3D 300 W
+ZY49698,Camara Digital Casio QV - R 300 LCD 3.45
+JI98835,Audifonos SE - MJ511HP K W
+JR86507,Equipo multifuncional Inyeccion de tinta MFC - J825DW
+RW87354,Samsung Galaxy S III mini 3G
+WS24612,Equipo de sonido XBOOM CM 8530 - 1800W
+UK47509,Equipo laser multifuncional monocromatico DCP - 7065DN
+IG92877,Audifonos Action Fit SA4ACT04ON
+BP15881,HandyCam PJ 430.4 Full HD zoom 30.5
+YW28008,Mini grabadora recargable GDM - 15
+KS19431,Sintonizador digital con USB 2.0 y antena
+MB82598,Camara fotografica modelo FX1056
+FT98440,Celular Nokia ASHA 308.3 SIM card 2
+YR12572,Samsung Galaxy Tab 2 WiFi 10.1
+UE09721,Sony XPERIA Tecnologia 3G 1.5 GHz
+IO29421,Licuadora de 10 velocidades con filtro 12834
+HL94468,MP3 SA 3 MXX 2 GB
+OT32425,"Smart TV 42"" Led 3D Serie 7500 + Blu-ray DMP_BDT 220"
+TT61626,Centro de lavado electrico FFLE - 1011 MW cap kg 16
+BB53001,Reproductor DVD marca GRNA modelo 12.453
+SB26669,Notebook modelo M51G maraca Lenovo
+BF72860,Impresora Laser color Modelo PVGR
+YW80393,Cyber-Shot Serie WX 200 LCD 2.7
+NL61668,Televisor LCD 32.5 pulgadas marca TVsitos
+BL95867,Refrigeradora No frost 500 lt cap.
+YF17264,Estuche Flip cover Cod. 91125

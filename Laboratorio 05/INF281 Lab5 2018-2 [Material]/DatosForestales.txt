@@ -1,0 +1,912 @@
+6,Buenos Aires,1998,Pino,t,7338,0,0,0,0
+6,Buenos Aires,1998,Acacia blanca,t,0,0,0,2287,0
+6,Buenos Aires,1998,Álamo,t,200255,0,0,0,0
+6,Buenos Aires,1998,Eucalipto,t,515091,139775,156223,7625,0
+6,Buenos Aires,1998,Sauce,t,204514,0,0,0,0
+10,Catamarca,1998,Pino,t,3410,0,0,0,0
+10,Catamarca,1998,Álamo,t,13,0,0,0,0
+22,Chaco,1998,Eucalipto,t,187,0,0,0,0
+26,Chubut,1998,Pino,t,11359,0,509,109,617
+26,Chubut,1998,Álamo,t,1415,0,300,0,0
+26,Chubut,1998,Sauce,t,1,0,0,0,128
+26,Chubut,1998,Otras,t,61,0,0,0,0
+14,Cordoba,1998,Pino,t,90750,0,0,0,0
+18,Corrientes,1998,Pino,t,112755,0,0,0,0
+18,Corrientes,1998,Eucalipto,t,215531,0,0,0,0
+30,Entre Rios,1998,Pino,t,24810,0,0,0,0
+30,Entre Rios,1998,Sauce,t,60772,0,0,0,0
+30,Entre Rios,1998,Álamo,t,23769,0,0,0,0
+30,Entre Rios,1998,Eucalipto,t,457430,0,0,35782,30198
+38,Jujuy,1998,Pino,t,10255,0,0,0,0
+38,Jujuy,1998,Eucalipto,t,24186,4637,0,1188,0
+42,La Pampa,1998,Álamo,t,10313,0,0,0,107
+42,La Pampa,1998,Eucalipto,t,1400,0,7835,0,0
+42,La Pampa,1998,Otras,t,0,0,350,5,0
+46,La Rioja,1998,Álamo,t,80,0,0,0,0
+50,Mendoza,1998,Álamo,t,83380,0,0,0,0
+50,Mendoza,1998,Eucalipto,t,11,0,0,0,0
+50,Mendoza,1998,Paraiso,t,16,0,0,0,0
+50,Mendoza,1998,Sauce,t,2794,0,0,0,0
+50,Mendoza,1998,Otras,t,6800,0,0,0,0
+54,Misiones,1998,Araucaria,t,222116,0,0,0,0
+54,Misiones,1998,Pino,t,2580090,0,0,0,0
+54,Misiones,1998,Kiri,t,279,0,0,0,0
+54,Misiones,1998,Paraiso,t,26523,0,0,0,0
+54,Misiones,1998,Otras,t,1000,0,0,0,0
+54,Misiones,1998,Eucalipto,t,99536,0,0,0,0
+58,Neuquen,1998,Pino,t,154,0,175,1355,8
+58,Neuquen,1998,Álamo,t,31703,0,34,20,0
+58,Neuquen,1998,Otras,t,0,0,192,4,0
+62,Rio Negro,1998,Pino,t,5131,0,132,0,849
+62,Rio Negro,1998,Álamo,t,96825,0,22,0,0
+70,San Juan,1998,Álamo,t,8500,0,0,0,0
+82,Santa Fe,1998,Eucalipto,t,156187,0,0,0,0
+90,Tucuman,1998,Pino,t,24961,0,0,0,0
+90,Tucuman,1998,Álamo,t,2213,0,0,0,0
+90,Tucuman,1998,Eucalipto,t,791,0,0,0,0
+6,Buenos Aires,1999,Eucalipto,t,31055368,0,0,0,0
+6,Buenos Aires,1999,Álamo,t,151092,0,0,0,0
+6,Buenos Aires,1999,Sauce,t,151092,0,0,0,0
+22,Chaco,1999,Eucalipto,t,1600,0,0,1440,0
+26,Chubut,1999,Pino,t,5838,0,561,90,232
+26,Chubut,1999,Álamo,t,566,0,53,0,0
+26,Chubut,1999,Sauce,t,52,0,7092,5,83
+14,Cordoba,1999,Pino,t,106700,0,0,160,829
+18,Corrientes,1999,Pino,t,925168,0,0,20895,0
+18,Corrientes,1999,Eucalipto,t,22402285,0,0,27396,8345
+30,Entre Rios,1999,Pino,t,12059,0,0,0,0
+30,Entre Rios,1999,Eucalipto,t,47125056,0,0,29987,27808
+30,Entre Rios,1999,Sauce,t,126248,0,0,0,0
+30,Entre Rios,1999,Álamo,t,84893,0,0,0,0
+34,Formosa,1999,Eucalipto,t,5,0,0,0,0
+34,Formosa,1999,Paraiso,t,2,0,0,0,0
+38,Jujuy,1999,Pino,t,6588,0,0,0,0
+38,Jujuy,1999,Eucalipto,t,7301,0,0,1065,0
+42,La Pampa,1999,Eucalipto,t,2591,25,5413,0,0
+42,La Pampa,1999,Otras,t,405,23,47,0,0
+42,La Pampa,1999,Álamo,t,4779,0,0,0,0
+46,La Rioja,1999,Álamo,t,45,0,0,0,0
+50,Mendoza,1999,Álamo,t,120000,0,0,0,0
+54,Misiones,1999,Pino,t,231265285,0,0,0,0
+54,Misiones,1999,Araucaria,t,13025717,0,0,0,0
+54,Misiones,1999,Paraiso,t,2267217,0,0,0,0
+54,Misiones,1999,Otras,t,40193,0,0,0,0
+54,Misiones,1999,Eucalipto,t,2404071,0,0,0,0
+54,Misiones,1999,Kiri,t,74336,0,0,0,0
+58,Neuquen,1999,Pino,t,0,0,0,337,0
+58,Neuquen,1999,Álamo,t,22036,0,0,49,0
+58,Neuquen,1999,Otras,t,35,0,0,4,0
+62,Rio Negro,1999,Pino,t,1842,0,572,266,1208
+62,Rio Negro,1999,Álamo,t,63372,0,272,0,0
+62,Rio Negro,1999,Sauce,t,550,0,0,0,0
+70,San Juan,1999,Álamo,t,9000,0,0,0,0
+82,Santa Fe,1999,Eucalipto,t,144895,0,0,0,0
+90,Tucuman,1999,Pino,t,25375,0,0,0,0
+90,Tucuman,1999,Álamo,t,2494,0,0,0,0
+90,Tucuman,1999,Eucalipto,t,2733,0,0,0,0
+90,Tucuman,1999,Sauce,t,13,0,0,0,0
+6,Buenos Aires,2000,Sauce,t,92476,0,0,0,0
+6,Buenos Aires,2000,Eucalipto,t,288998,0,0,0,0
+6,Buenos Aires,2000,Álamo,t,92476,0,0,0,0
+26,Chubut,2000,Pino,t,6091,0,390,90,363
+26,Chubut,2000,Ciprés,t,50,0,0,0,6
+26,Chubut,2000,Álamo,t,1487,0,99,0,0
+26,Chubut,2000,Sauce,t,0,0,9463,0,441
+26,Chubut,2000,Otras,t,6,0,0,0,0
+14,Cordoba,2000,Pino,t,70000,1500,0,1512,2672
+14,Cordoba,2000,Álamo,t,8640,0,0,0,0
+14,Cordoba,2000,Eucalipto,t,8560,840,7200,0,0
+14,Cordoba,2000,Otras,t,0,200,1200,0,0
+18,Corrientes,2000,Pino,t,112908,0,0,0,0
+18,Corrientes,2000,Eucalipto,t,24723795,0,0,53666,10209
+30,Entre Rios,2000,Pino,t,127639,0,0,0,0
+30,Entre Rios,2000,Eucalipto,t,629346,0,0,32508,29838
+30,Entre Rios,2000,Sauce,t,205493,0,0,0,0
+30,Entre Rios,2000,Álamo,t,43058,0,0,0,0
+38,Jujuy,2000,Pino,t,12278,0,0,0,0
+38,Jujuy,2000,Eucalipto,t,14175,0,0,1611,0
+42,La Pampa,2000,Álamo,t,11002,0,0,0,0
+42,La Pampa,2000,Eucalipto,t,968,175,3592,0,0
+42,La Pampa,2000,Otras,t,50,218,47,0,0
+50,Mendoza,2000,Álamo,t,117036,0,0,0,0
+54,Misiones,2000,Araucaria,t,10705382,0,0,0,0
+54,Misiones,2000,Pino,t,358146645,0,0,0,0
+54,Misiones,2000,Kiri,t,76799,0,0,0,0
+54,Misiones,2000,Paraiso,t,16642,0,0,0,0
+54,Misiones,2000,Otras,t,49432,0,0,0,0
+54,Misiones,2000,Eucalipto,t,8948039,0,0,0,0
+58,Neuquen,2000,Pino,t,0,0,0,337,0
+58,Neuquen,2000,Álamo,t,22036,0,0,49,0
+58,Neuquen,2000,Otras,t,35,0,0,4,0
+62,Rio Negro,2000,Pino,t,5205,0,931,293,0
+62,Rio Negro,2000,Sauce,t,550,0,820,0,0
+62,Rio Negro,2000,Álamo,t,144152,0,92,0,0
+70,San Juan,2000,Álamo,t,10000,0,0,0,0
+82,Santa Fe,2000,Eucalipto,t,99104,0,0,0,0
+90,Tucuman,2000,Pino,t,27759,0,0,0,0
+90,Tucuman,2000,Álamo,t,1083,0,0,0,0
+90,Tucuman,2000,Eucalipto,t,2243,0,0,0,0
+90,Tucuman,2000,Sauce,t,15,0,0,0,0
+6,Buenos Aires,2001,Sauce,t,154934,0,0,0,0
+6,Buenos Aires,2001,Álamo,t,79814,0,0,0,0
+6,Buenos Aires,2001,Eucalipto,t,107777,0,0,0,0
+26,Chubut,2001,Pino,t,6452,0,1466,91,332
+26,Chubut,2001,Ciprés,t,30,0,0,0,0
+26,Chubut,2001,Álamo,t,1296,0,228,0,0
+26,Chubut,2001,Eucalipto,t,2,0,0,0,0
+26,Chubut,2001,Sauce,t,0,0,7925,1,298
+26,Chubut,2001,Otras,t,4,0,0,0,3
+14,Cordoba,2001,Pino,t,70000,1500,0,1512,1264
+14,Cordoba,2001,Álamo,t,8640,0,0,0,0
+14,Cordoba,2001,Eucalipto,t,8560,840,7200,0,0
+14,Cordoba,2001,Otras,t,0,200,1200,0,0
+18,Corrientes,2001,Pino,t,1810496,0,0,0,0
+18,Corrientes,2001,Eucalipto,t,2964171,0,0,35729,6636
+30,Entre Rios,2001,Pino,t,54000,0,0,0,0
+30,Entre Rios,2001,Álamo,t,44000,0,0,0,0
+30,Entre Rios,2001,Sauce,t,98644,0,0,0,0
+30,Entre Rios,2001,Eucalipto,t,440000,3600,0,46500,32959
+38,Jujuy,2001,Pino,t,7927,0,0,0,0
+38,Jujuy,2001,Eucalipto,t,5638,0,0,265,0
+42,La Pampa,2001,Álamo,t,10386,0,7,0,130
+42,La Pampa,2001,Eucalipto,t,0,232,934,0,0
+50,Mendoza,2001,Álamo,t,68907,0,0,0,0
+54,Misiones,2001,Araucaria,t,10062752,0,0,0,0
+54,Misiones,2001,Pino,t,28685112,0,0,0,0
+54,Misiones,2001,Eucalipto,t,6254903,0,0,0,0
+54,Misiones,2001,Kiri,t,5735,0,0,0,0
+54,Misiones,2001,Paraiso,t,1502088,0,0,0,0
+54,Misiones,2001,Otras,t,370421,0,0,0,0
+58,Neuquen,2001,Pino,t,1167,0,5681,262,0
+58,Neuquen,2001,Ciprés,t,256,0,0,17,1
+58,Neuquen,2001,Álamo,t,18629,0,85,0,0
+58,Neuquen,2001,Otras,t,0,0,0,5,0
+62,Rio Negro,2001,Álamo,t,92340,0,21,0,0
+62,Rio Negro,2001,Sauce,t,0,0,103,0,0
+70,San Juan,2001,Álamo,t,12000,0,0,0,0
+74,San Luis,2001,Álamo,t,223,0,0,0,0
+82,Santa Fe,2001,Álamo,t,1559,0,0,0,0
+82,Santa Fe,2001,Eucalipto,t,150112,0,0,0,0
+90,Tucuman,2001,Pino,t,23842,0,0,0,0
+90,Tucuman,2001,Álamo,t,104,0,0,0,0
+90,Tucuman,2001,Eucalipto,t,1745,0,0,0,0
+6,Buenos Aires,2002,Pino,t,3028,0,0,0,0
+6,Buenos Aires,2002,Álamo,t,266000,0,0,0,0
+6,Buenos Aires,2002,Eucalipto,t,146387,0,0,0,0
+6,Buenos Aires,2002,Sauce,t,198989,0,0,0,0
+26,Chubut,2002,Ciprés,t,101,0,0,3,13
+26,Chubut,2002,Pino,t,8090,0,1396,69,591
+26,Chubut,2002,Álamo,t,1716,0,66,0,0
+26,Chubut,2002,Eucalipto,t,2,0,0,0,0
+26,Chubut,2002,Sauce,t,3,0,10838,1,47
+14,Cordoba,2002,Pino,t,197200,0,0,0,3368
+14,Cordoba,2002,Eucalipto,t,3840,0,18570,0,0
+14,Cordoba,2002,Álamo,t,10725,0,0,0,0
+18,Corrientes,2002,Pino,t,228436,0,0,0,0
+18,Corrientes,2002,Eucalipto,t,466591,0,0,35729,6636
+30,Entre Rios,2002,Pino,t,75800,0,0,0,0
+30,Entre Rios,2002,Álamo,t,34228,0,0,0,0
+30,Entre Rios,2002,Sauce,t,96774,0,0,0,0
+30,Entre Rios,2002,Eucalipto,t,687850,0,0,51900,3200
+38,Jujuy,2002,Pino,t,13972,0,0,0,0
+38,Jujuy,2002,Eucalipto,t,25321,0,0,446,0
+38,Jujuy,2002,Sauce,t,45,0,0,0,0
+42,La Pampa,2002,Otras,t,55,0,0,0,0
+42,La Pampa,2002,Álamo,t,9368,0,6,17,0
+42,La Pampa,2002,Eucalipto,t,20,167,5,0,0
+50,Mendoza,2002,Álamo,t,59841,0,0,0,0
+54,Misiones,2002,Araucaria,t,9779022,0,0,0,0
+54,Misiones,2002,Pino,t,42367232,0,11252,30,0
+54,Misiones,2002,Eucalipto,t,12019629,0,3737,0,1670
+54,Misiones,2002,Kiri,t,464199,0,0,0,0
+54,Misiones,2002,Paraiso,t,210623,0,365,0,0
+54,Misiones,2002,Otras,t,333416,0,0,0,0
+58,Neuquen,2002,Pino,t,82,0,175,1000,4
+58,Neuquen,2002,Álamo,t,15732,0,764,17,0
+58,Neuquen,2002,Sauce,t,100,0,0,0,0
+58,Neuquen,2002,Otras,t,0,0,0,9,3
+62,Rio Negro,2002,Ciprés,t,3612,0,75,230,516
+62,Rio Negro,2002,Pino,t,8790,0,2801,0,596
+62,Rio Negro,2002,Pino,t,5508,0,3162,43,0
+62,Rio Negro,2002,Álamo,t,50844,0,0,0,0
+62,Rio Negro,2002,Sauce,t,65851,0,440,0,0
+82,Santa Fe,2002,Eucalipto,t,56308,0,0,11,0
+82,Santa Fe,2002,Sauce,t,1589,0,0,0,0
+82,Santa Fe,2002,Álamo,t,2889,0,0,0,0
+90,Tucuman,2002,Pino,t,30280,0,0,0,0
+90,Tucuman,2002,Álamo,t,174,0,0,0,0
+90,Tucuman,2002,Eucalipto,t,2065,0,0,0,0
+6,Buenos Aires,2003,Pino,t,16,0,0,0,0
+6,Buenos Aires,2003,Sauce,t,298870,0,0,0,0
+6,Buenos Aires,2003,Paraiso,t,221,0,0,0,0
+6,Buenos Aires,2003,Álamo,t,99290,0,0,0,0
+6,Buenos Aires,2003,Eucalipto,t,142946,0,0,0,0
+26,Chubut,2003,Ciprés,t,12,0,5,18,178
+26,Chubut,2003,Pino,t,10818,0,977,177,642
+26,Chubut,2003,Álamo,t,2365,0,15,0,0
+26,Chubut,2003,Sauce,t,0,0,14981,30,22
+26,Chubut,2003,Otras,t,149,0,1979,24,29
+14,Cordoba,2003,Pino,t,186550,0,0,0,0
+14,Cordoba,2003,Álamo,t,12740,0,0,0,0
+14,Cordoba,2003,Eucalipto,t,3868,0,20000,0,0
+18,Corrientes,2003,Pino,t,209239,0,0,0,0
+18,Corrientes,2003,Eucalipto,t,289670,0,0,318186,918
+18,Corrientes,2003,Paraiso,t,82,0,0,0,0
+30,Entre Rios,2003,Pino,t,31717,0,0,0,0
+30,Entre Rios,2003,Eucalipto,t,412488,0,0,75588,19190
+30,Entre Rios,2003,Sauce,t,104067,0,0,0,0
+30,Entre Rios,2003,Álamo,t,34504,0,0,0,0
+38,Jujuy,2003,Pino,t,48317,0,0,0,0
+38,Jujuy,2003,Álamo,t,101,0,0,0,0
+38,Jujuy,2003,Eucalipto,t,84464,0,0,1079,0
+38,Jujuy,2003,Sauce,t,153,0,0,0,0
+42,La Pampa,2003,Álamo,t,3900,0,42,6,0
+42,La Pampa,2003,Eucalipto,t,14875,11,754,0,0
+42,La Pampa,2003,Otras,t,3225,0,0,0,0
+50,Mendoza,2003,Álamo,t,217521,0,0,0,0
+50,Mendoza,2003,Eucalipto,t,1733,0,0,0,0
+54,Misiones,2003,Pino,t,48325592,0,11964,0,0
+54,Misiones,2003,Araucaria,t,16275885,0,129,0,0
+54,Misiones,2003,Eucalipto,t,1132234,0,54,4,1024
+54,Misiones,2003,Kiri,t,828815,0,36,0,0
+54,Misiones,2003,Paraiso,t,2781473,0,140,0,0
+54,Misiones,2003,Otras,t,12786,0,15,0,0
+58,Neuquen,2003,Pino,t,0,0,175,1000,4
+58,Neuquen,2003,Álamo,t,22214,0,764,17,0
+58,Neuquen,2003,Otras,t,0,0,0,9,3
+62,Rio Negro,2003,Pino,t,13967,0,4420,23,229
+62,Rio Negro,2003,Álamo,t,55066,0,10,54,1113
+62,Rio Negro,2003,Sauce,t,840,0,66,0,0
+62,Rio Negro,2003,Otras,t,30,0,0,0,0
+82,Santa Fe,2003,Eucalipto,t,104783,0,0,1,0
+82,Santa Fe,2003,Sauce,t,22419,0,0,0,0
+82,Santa Fe,2003,Álamo,t,28059,0,0,0,0
+90,Tucuman,2003,Pino,t,42887,0,0,0,0
+90,Tucuman,2003,Álamo,t,6048,0,0,0,0
+90,Tucuman,2003,Eucalipto,t,1447,0,0,0,0
+6,Buenos Aires,2004,Pino,t,2143,0,0,0,0
+6,Buenos Aires,2004,Sauce,t,112272,0,0,0,0
+6,Buenos Aires,2004,Álamo,t,66470,0,0,0,0
+6,Buenos Aires,2004,Eucalipto,t,315955,0,0,0,0
+26,Chubut,2004,Ciprés,t,164,79,58,22,0
+26,Chubut,2004,Pino,t,13486,2467,235,700,0
+26,Chubut,2004,Otras,t,21,2678,0,0,0
+26,Chubut,2004,Álamo,t,3627,200,5,0,0
+26,Chubut,2004,Sauce,t,0,15768,49,190,0
+14,Cordoba,2004,Pino,t,234000,0,0,0,0
+14,Cordoba,2004,Álamo,t,15925,0,0,0,0
+14,Cordoba,2004,Eucalipto,t,6630,20000,0,0,0
+18,Corrientes,2004,Pino,t,213785,0,0,0,0
+18,Corrientes,2004,Eucalipto,t,497926,0,15608,1272,0
+30,Entre Rios,2004,Pino,t,64217,0,829,2033,0
+30,Entre Rios,2004,Eucalipto,t,477066,0,80812,26647,0
+30,Entre Rios,2004,Sauce,t,134297,0,0,0,0
+30,Entre Rios,2004,Álamo,t,42277,0,0,0,0
+38,Jujuy,2004,Pino,t,31363,0,0,0,0
+38,Jujuy,2004,Eucalipto,t,74812,0,1484,0,0
+38,Jujuy,2004,Sauce,t,244,0,0,0,0
+42,La Pampa,2004,Álamo,t,7095,14,0,0,0
+42,La Pampa,2004,Eucalipto,t,75,75,0,0,0
+42,La Pampa,2004,Otras,t,116,93,0,0,0
+50,Mendoza,2004,Álamo,t,106858,0,0,0,0
+50,Mendoza,2004,Eucalipto,t,4282,0,0,0,0
+50,Mendoza,2004,Sauce,t,2267,0,0,0,0
+54,Misiones,2004,Pino,t,4523094,10573,464,0,0
+54,Misiones,2004,Araucaria,t,139688,116,51,0,0
+54,Misiones,2004,Eucalipto,t,103713,30,54,80,0
+54,Misiones,2004,Kiri,t,8145,24,127,0,0
+54,Misiones,2004,Paraiso,t,21649,91,178,0,0
+54,Misiones,2004,Otras,t,11002,40,0,0,0
+58,Neuquen,2004,Ciprés,t,1247,0,0,0,0
+58,Neuquen,2004,Pino,t,3063,5488,281,0,0
+58,Neuquen,2004,Otras,t,417,4413,0,0,0
+58,Neuquen,2004,Álamo,t,29849,120,0,0,0
+58,Neuquen,2004,Sauce,t,0,746,7,0,0
+62,Rio Negro,2004,Ciprés,t,4281,0,267,174,0
+62,Rio Negro,2004,Pino,t,15797,2247,29,400,0
+62,Rio Negro,2004,Álamo,t,57698,0,155,112,0
+62,Rio Negro,2004,Sauce,t,660,0,0,0,0
+82,Santa Fe,2004,Pino,t,271,0,0,0,0
+82,Santa Fe,2004,Álamo,t,25270,0,0,0,0
+82,Santa Fe,2004,Eucalipto,t,147858,0,330,0,0
+82,Santa Fe,2004,Sauce,t,1188,0,0,0,0
+90,Tucuman,2004,Pino,t,42887,0,0,0,0
+90,Tucuman,2004,Álamo,t,6048,0,0,0,0
+90,Tucuman,2004,Eucalipto,t,1447,0,0,0,0
+6,Buenos Aires,2005,Álamo,t,120464,0,0,0,0
+6,Buenos Aires,2005,Eucalipto,t,187326,0,0,0,0
+6,Buenos Aires,2005,Sauce,t,399927,0,0,0,0
+26,Chubut,2005,Ciprés,t,4213,0,560,210,121
+26,Chubut,2005,Pino,t,8427,0,2960,24,153
+26,Chubut,2005,Álamo,t,2732,0,453,0,0
+26,Chubut,2005,Sauce,t,0,0,8855,27,24
+14,Cordoba,2005,Pino,t,312000,0,0,36,1504
+14,Cordoba,2005,Eucalipto,t,6630,0,20000,0,0
+14,Cordoba,2005,Álamo,t,15925,0,0,0,0
+18,Corrientes,2005,Pino,t,211343,0,0,0,0
+18,Corrientes,2005,Eucalipto,t,324813,0,0,6066,1042
+30,Entre Rios,2005,Pino,t,34440,0,0,0,0
+30,Entre Rios,2005,Álamo,t,27274,0,0,0,0
+30,Entre Rios,2005,Eucalipto,t,495746,0,0,129518,11277
+30,Entre Rios,2005,Sauce,t,151158,0,0,0,0
+34,Formosa,2005,Paraiso,t,9,0,0,0,0
+38,Jujuy,2005,Pino,t,35246,0,0,0,0
+38,Jujuy,2005,Eucalipto,t,97250,0,0,2146,0
+42,La Pampa,2005,Álamo,t,9450,0,15,394,0
+42,La Pampa,2005,Eucalipto,t,81,573,1027,0,0
+42,La Pampa,2005,Otras,t,0,0,0,15,0
+50,Mendoza,2005,Pino,t,455,0,0,0,0
+50,Mendoza,2005,Álamo,t,32129,0,0,0,0
+50,Mendoza,2005,Eucalipto,t,6862,0,0,0,0
+50,Mendoza,2005,Sauce,t,6836,0,0,0,0
+54,Misiones,2005,Araucaria,t,1486888,0,871,0,0
+54,Misiones,2005,Pino,t,47451584,0,54791,0,0
+54,Misiones,2005,Otras,t,349206,0,148,0,0
+54,Misiones,2005,Eucalipto,t,626504,0,1607,196,144
+54,Misiones,2005,Kiri,t,1034225,0,3362,0,0
+54,Misiones,2005,Paraiso,t,21741,0,1431,0,0
+58,Neuquen,2005,Ciprés,t,1247,0,0,0,0
+58,Neuquen,2005,Pino,t,3063,0,5488,359,0
+58,Neuquen,2005,Álamo,t,25067,0,120,0,0
+58,Neuquen,2005,Sauce,t,350,0,746,7,0
+58,Neuquen,2005,Otras,t,417,0,4413,0,0
+62,Rio Negro,2005,Ciprés,t,2897,0,158,119,269
+62,Rio Negro,2005,Pino,t,12850,0,2054,65,1065
+62,Rio Negro,2005,Otras,t,0,0,0,39,0
+62,Rio Negro,2005,Álamo,t,50712,0,27,388,160
+62,Rio Negro,2005,Sauce,t,2400,0,0,0,0
+82,Santa Fe,2005,Pino,t,55,0,0,0,0
+82,Santa Fe,2005,Álamo,t,24355,0,0,0,0
+82,Santa Fe,2005,Eucalipto,t,116237,0,1,0,0
+90,Tucuman,2005,Pino,t,42887,0,0,0,0
+90,Tucuman,2005,Álamo,t,6048,0,0,0,0
+90,Tucuman,2005,Eucalipto,t,1447,0,0,0,0
+6,Buenos Aires,2006,Eucalipto,t,14367465,0,0,2,0
+6,Buenos Aires,2006,Sauce,t,4403025,0,0,0,0
+6,Buenos Aires,2006,Álamo,t,774333,0,0,0,0
+22,Chaco,2006,Eucalipto,t,1538,0,0,0,0
+26,Chubut,2006,Ciprés,t,49,0,0,0,0
+26,Chubut,2006,Pino,t,15060,0,3169,281,1962
+26,Chubut,2006,Álamo,t,1935,0,443,0,13
+26,Chubut,2006,Sauce,t,21,0,16995,71,205
+26,Chubut,2006,Otras,t,151,0,1297,2,1
+14,Cordoba,2006,Pino,t,312000,0,0,0,1152
+14,Cordoba,2006,Álamo,t,15925,0,0,0,0
+14,Cordoba,2006,Eucalipto,t,8619,5640,29640,0,0
+18,Corrientes,2006,Pino,t,290890,0,0,0,0
+18,Corrientes,2006,Eucalipto,t,334882,0,0,22531,2174
+30,Entre Rios,2006,Pino,t,122960,0,0,8400,0
+30,Entre Rios,2006,Eucalipto,t,620303,0,0,95102,51805
+34,Formosa,2006,Eucalipto,t,1,0,0,0,0
+38,Jujuy,2006,Pino,t,12311,0,0,0,0
+38,Jujuy,2006,Sauce,t,171,0,0,0,0
+38,Jujuy,2006,Eucalipto,t,92185,0,0,1801,0
+42,La Pampa,2006,Álamo,t,12782,0,97,2397,22
+42,La Pampa,2006,Eucalipto,t,568,40,128,0,0
+42,La Pampa,2006,Otras,t,35,0,10,3,0
+50,Mendoza,2006,Álamo,t,171888,0,0,0,0
+50,Mendoza,2006,Eucalipto,t,2244,0,0,0,0
+54,Misiones,2006,Araucaria,t,1561484,0,14,579,0
+54,Misiones,2006,Pino,t,44008968,0,293,24986,0
+54,Misiones,2006,Eucalipto,t,7721825,0,65,480,144
+54,Misiones,2006,Kiri,t,860057,0,1,27,480
+54,Misiones,2006,Paraiso,t,1893645,0,0,122,0
+54,Misiones,2006,Otras,t,154771,0,78,831,0
+58,Neuquen,2006,Ciprés,t,34,0,0,0,0
+58,Neuquen,2006,Pino,t,6388,0,14115,297,5
+58,Neuquen,2006,Sauce,t,187,0,2014,3,0
+58,Neuquen,2006,Otras,t,5,0,0,0,0
+58,Neuquen,2006,Álamo,t,41325,0,287,64,9
+58,Neuquen,2006,Eucalipto,t,68,0,0,0,0
+62,Rio Negro,2006,Ciprés,t,2476,0,130,103,119
+62,Rio Negro,2006,Pino,t,10790,0,1684,41,476
+62,Rio Negro,2006,Álamo,t,51747,0,69,0,96
+62,Rio Negro,2006,Sauce,t,1170,0,0,0,0
+82,Santa Fe,2006,Pino,t,1247,0,0,0,0
+82,Santa Fe,2006,Sauce,t,2341,0,0,0,0
+82,Santa Fe,2006,Álamo,t,25434,0,0,0,0
+82,Santa Fe,2006,Eucalipto,t,73568,0,0,0,0
+90,Tucuman,2006,Pino,t,42887,0,0,0,0
+90,Tucuman,2006,Álamo,t,6048,0,0,0,0
+90,Tucuman,2006,Eucalipto,t,1447,0,0,0,0
+6,Buenos Aires,2007,Pino,t,1596,0,0,0,0
+6,Buenos Aires,2007,Otras,t,0,0,0,107,566
+6,Buenos Aires,2007,Álamo,t,181630,0,0,0,0
+6,Buenos Aires,2007,Eucalipto,t,218002,0,0,37,0
+6,Buenos Aires,2007,Sauce,t,283197,0,0,0,0
+22,Chaco,2007,Eucalipto,t,4884,0,0,479,0
+26,Chubut,2007,Ciprés,t,71,0,0,0,0
+26,Chubut,2007,Pino,t,12548,0,4410,258,0
+26,Chubut,2007,Sauce,t,0,0,13255,0,0
+26,Chubut,2007,Álamo,t,1259,0,140,0,0
+14,Cordoba,2007,Pino,t,440000,0,0,0,0
+14,Cordoba,2007,Álamo,t,21000,0,0,0,0
+14,Cordoba,2007,Eucalipto,t,12750,5000,20000,0,0
+18,Corrientes,2007,Pino,t,422347,0,0,0,0
+18,Corrientes,2007,Eucalipto,t,296925,0,0,7786,145
+30,Entre Rios,2007,Pino,t,95218,0,0,8400,0
+30,Entre Rios,2007,Álamo,t,248,0,0,0,0
+30,Entre Rios,2007,Eucalipto,t,864812,0,0,16701,42976
+30,Entre Rios,2007,Sauce,t,2531,0,0,0,0
+34,Formosa,2007,Pino,t,1100,0,0,0,0
+34,Formosa,2007,Otras,t,14,0,0,0,0
+34,Formosa,2007,Eucalipto,t,14,0,0,0,0
+34,Formosa,2007,Paraiso,t,51,0,0,0,0
+38,Jujuy,2007,Pino,t,3964,0,0,9,0
+38,Jujuy,2007,Eucalipto,t,131067,0,0,1460,0
+38,Jujuy,2007,Sauce,t,74,0,0,0,0
+38,Jujuy,2007,Álamo,t,266,0,0,0,0
+38,Jujuy,2007,Otras,t,73,0,0,0,0
+42,La Pampa,2007,Pino,t,0,0,5,9,0
+42,La Pampa,2007,Eucalipto,t,0,0,62,0,0
+42,La Pampa,2007,Álamo,t,10778,0,193,1443,0
+50,Mendoza,2007,Álamo,t,122823,0,0,0,0
+50,Mendoza,2007,Eucalipto,t,1765,0,0,0,0
+54,Misiones,2007,Araucaria,t,1502307,0,3,35343,0
+54,Misiones,2007,Pino,t,3849876,0,53,2050808,0
+54,Misiones,2007,Otras,t,1754392,0,30,1702,0
+54,Misiones,2007,Eucalipto,t,430746,0,26,25789,0
+54,Misiones,2007,Kiri,t,803231,0,4,3519,0
+54,Misiones,2007,Paraiso,t,154737,0,0,26325,0
+58,Neuquen,2007,Pino,t,4208,0,4433,31,16
+58,Neuquen,2007,Álamo,t,37986,0,2799,4,0
+58,Neuquen,2007,Sauce,t,302,0,2107,03,0
+58,Neuquen,2007,Otras,t,39,0,810,1,0
+62,Rio Negro,2007,Ciprés,t,5216,0,415,0,0
+62,Rio Negro,2007,Pino,t,12024,0,2298,0,0
+62,Rio Negro,2007,Álamo,t,30866,0,63,2,1086
+62,Rio Negro,2007,Otras,t,0,0,0,4,0
+82,Santa Fe,2007,Pino,t,353,0,0,0,0
+82,Santa Fe,2007,Álamo,t,22191,0,0,0,0
+82,Santa Fe,2007,Eucalipto,t,71841,0,0,0,0
+82,Santa Fe,2007,Otras,t,6692,0,0,0,0
+90,Tucuman,2007,Pino,t,55600,0,0,0,0
+90,Tucuman,2007,Álamo,t,7800,0,0,0,0
+90,Tucuman,2007,Eucalipto,t,1300,0,0,0,0
+6,Buenos Aires,2008,Pino,t,820,0,0,0,0
+6,Buenos Aires,2008,Eucalipto,t,232466,0,0,4,0
+6,Buenos Aires,2008,Sauce,t,350250,0,0,0,0
+6,Buenos Aires,2008,Álamo,t,110620,0,0,0,0
+22,Chaco,2008,Eucalipto,t,3119,0,0,506,0
+22,Chaco,2008,Otras,t,784,0,0,0,0
+26,Chubut,2008,Ciprés,t,53,0,0,0,0
+26,Chubut,2008,Pino,t,14642,0,4387,144,0
+26,Chubut,2008,Álamo,t,2636,0,525,0,0
+26,Chubut,2008,Sauce,t,0,0,14756,0,0
+14,Cordoba,2008,Pino,t,280000,0,0,0,0
+14,Cordoba,2008,Álamo,t,21000,0,0,0,0
+14,Cordoba,2008,Eucalipto,t,29362,5000,20000,0,0
+18,Corrientes,2008,Pino,t,363158,0,0,0,0
+18,Corrientes,2008,Eucalipto,t,499558,0,0,6989,1688
+30,Entre Rios,2008,Pino,t,385647,0,0,0,0
+30,Entre Rios,2008,Álamo,t,561,0,0,0,0
+30,Entre Rios,2008,Eucalipto,t,628407,0,0,17275,55043
+30,Entre Rios,2008,Sauce,t,3337,0,0,0,0
+34,Formosa,2008,Eucalipto,t,3,0,0,0,0
+34,Formosa,2008,Paraiso,t,60,0,0,0,0
+38,Jujuy,2008,Pino,t,5029,0,0,0,0
+38,Jujuy,2008,Eucalipto,t,80440,0,0,840,0
+38,Jujuy,2008,Álamo,t,69,0,0,0,0
+42,La Pampa,2008,Otras,t,0,0,191,25,0
+42,La Pampa,2008,Álamo,t,11788,0,62,1777,0
+42,La Pampa,2008,Eucalipto,t,0,0,564,0,0
+50,Mendoza,2008,Álamo,t,105560,0,0,0,0
+50,Mendoza,2008,Eucalipto,t,637,0,0,0,0
+54,Misiones,2008,Pino,t,3592279,0,0,0,0
+54,Misiones,2008,Araucaria,t,151779,0,0,0,0
+54,Misiones,2008,Otras,t,5340,0,0,0,0
+54,Misiones,2008,Eucalipto,t,36371,0,0,0,0
+54,Misiones,2008,Kiri,t,7464,0,0,0,0
+54,Misiones,2008,Paraiso,t,11765,0,0,0,0
+58,Neuquen,2008,Ciprés,t,2,0,0,0,0
+58,Neuquen,2008,Pino,t,10739,0,26255,9638,7878
+58,Neuquen,2008,Álamo,t,24486,0,793,125,0
+58,Neuquen,2008,Sauce,t,302,0,626,1,3
+58,Neuquen,2008,Otras,t,12,0,45,4,1
+62,Rio Negro,2008,Ciprés,t,6336,0,111,0,0
+62,Rio Negro,2008,Pino,t,9334,0,130,0,0
+62,Rio Negro,2008,Álamo,t,37445,0,32,0,2021
+62,Rio Negro,2008,Eucalipto,t,28,0,39,0,0
+82,Santa Fe,2008,Álamo,t,20400,0,0,0,0
+82,Santa Fe,2008,Eucalipto,t,112022,0,0,0,0
+82,Santa Fe,2008,Otras,t,13282,0,0,0,0
+6,Buenos Aires,2009,Pino,t,17592,0,0,0,0
+6,Buenos Aires,2009,Álamo,t,1276219,0,0,0,0
+6,Buenos Aires,2009,Eucalipto,t,1370217,0,0,0,0
+6,Buenos Aires,2009,Sauce,t,27780975,0,0,0,0
+22,Chaco,2009,Eucalipto,t,20706,0,0,0,0
+26,Chubut,2009,Ciprés,t,1781,0,334,27413,0
+26,Chubut,2009,Pino,t,15207,0,8926,29254,0
+26,Chubut,2009,Álamo,t,1567,0,189,75,0
+26,Chubut,2009,Sauce,t,2,0,5313,2049,0
+14,Cordoba,2009,Pino,t,280000,0,0,0,0
+14,Cordoba,2009,Álamo,t,21000,0,0,0,0
+14,Cordoba,2009,Eucalipto,t,12750,5000,20000,0,0
+18,Corrientes,2009,Pino,t,8383016,0,0,3909,0
+18,Corrientes,2009,Eucalipto,t,68291125,0,0,8501,0
+30,Entre Rios,2009,Pino,t,1814248,0,0,0,0
+30,Entre Rios,2009,Álamo,t,1631,0,0,0,0
+30,Entre Rios,2009,Eucalipto,t,124661425,0,0,60006,0
+30,Entre Rios,2009,Sauce,t,55412,0,0,0,0
+34,Formosa,2009,Eucalipto,t,33,0,0,0,0
+34,Formosa,2009,Paraiso,t,15,0,0,0,0
+38,Jujuy,2009,Pino,t,5482,0,0,0,0
+38,Jujuy,2009,Otras,t,96,0,0,0,0
+38,Jujuy,2009,Eucalipto,t,93094,0,0,1295,0
+42,La Pampa,2009,Álamo,t,5600,0,305,8065,0
+42,La Pampa,2009,Eucalipto,t,0,0,525,0,0
+42,La Pampa,2009,Otras,t,0,0,111,0,0
+50,Mendoza,2009,Sauce,t,15375,0,0,0,0
+50,Mendoza,2009,Otras,t,343212,0,0,0,0
+50,Mendoza,2009,Álamo,t,63560,0,0,0,0
+50,Mendoza,2009,Eucalipto,t,85425,0,0,0,0
+54,Misiones,2009,Araucaria,t,1072054,0,0,306,0
+54,Misiones,2009,Pino,t,39373088,0,5064,1096,0
+54,Misiones,2009,Eucalipto,t,2095182,0,31025,14705,0
+54,Misiones,2009,Kiri,t,511926,0,41,0,0
+54,Misiones,2009,Paraiso,t,113562,0,0,27,0
+54,Misiones,2009,Otras,t,1289524,0,0,0,0
+58,Neuquen,2009,Ciprés,t,0,0,0,0,0
+58,Neuquen,2009,Pino,t,8729,0,8960,436,0
+58,Neuquen,2009,Álamo,t,22446,0,759,21,0
+58,Neuquen,2009,Sauce,t,168,0,526,0,0
+58,Neuquen,2009,Otras,t,104,0,21,0,0
+62,Rio Negro,2009,Ciprés,t,3499,0,92,13,879
+62,Rio Negro,2009,Pino,t,10894,0,1360,0,0
+62,Rio Negro,2009,Álamo,t,24650,0,60,0,1563
+62,Rio Negro,2009,Eucalipto,t,0,0,28,10,0
+62,Rio Negro,2009,Sauce,t,1293,0,0,0,0
+82,Santa Fe,2009,Álamo,t,168063,0,0,0,0
+82,Santa Fe,2009,Eucalipto,t,8468295,0,0,0,0
+82,Santa Fe,2009,Sauce,t,91125,0,0,0,0
+6,Buenos Aires,2010,Pino,t,216632,0,0,0,0
+6,Buenos Aires,2010,Paraiso,t,4455,0,0,0,0
+6,Buenos Aires,2010,Álamo,t,1788458,0,0,0,0
+6,Buenos Aires,2010,Eucalipto,t,2057255,0,0,0,0
+6,Buenos Aires,2010,Sauce,t,258924,0,0,0,0
+26,Chubut,2010,Ciprés,t,2074,0,271,582,253
+26,Chubut,2010,Pino,t,16724,0,2439,152,1446
+14,Cordoba,2010,Pino,t,280000,0,0,0,0
+14,Cordoba,2010,Álamo,t,21000,0,0,0,0
+14,Cordoba,2010,Eucalipto,t,12750,5000,20000,0,0
+18,Corrientes,2010,Pino,t,643548,0,0,0,0
+18,Corrientes,2010,Eucalipto,t,62551245,0,0,23886,0
+18,Corrientes,2010,Paraiso,t,7763,0,0,0,0
+30,Entre Rios,2010,Pino,t,140968,0,0,0,0
+30,Entre Rios,2010,Eucalipto,t,158542425,0,0,70272,0
+30,Entre Rios,2010,Sauce,t,20802,0,0,0,0
+30,Entre Rios,2010,Álamo,t,20937,0,0,0,0
+34,Formosa,2010,Paraiso,t,2,0,0,0,0
+38,Jujuy,2010,Pino,t,2632,0,0,0,0
+38,Jujuy,2010,Eucalipto,t,756704,0,0,3793,0
+38,Jujuy,2010,Álamo,t,45,0,0,0,0
+38,Jujuy,2010,Sauce,t,73,0,0,0,0
+42,La Pampa,2010,Álamo,t,35868,0,0,1751,0
+42,La Pampa,2010,Eucalipto,t,0,0,783,0,0
+50,Mendoza,2010,Pino,t,5192,0,0,0,0
+50,Mendoza,2010,Álamo,t,99107,0,0,0,0
+50,Mendoza,2010,Eucalipto,t,13991,0,0,0,0
+50,Mendoza,2010,Sauce,t,37725,0,0,0,0
+50,Mendoza,2010,Otras,t,5365,0,0,0,0
+54,Misiones,2010,Araucaria,t,10954885,0,085,0,0
+54,Misiones,2010,Pino,t,43855208,0,2568,76,0
+54,Misiones,2010,Eucalipto,t,2192864,0,42585,357,0
+54,Misiones,2010,Kiri,t,515821,0,902,0,0
+54,Misiones,2010,Paraiso,t,1031603,0,0,567,0
+54,Misiones,2010,Otras,t,2672584,0,0,0,0
+58,Neuquen,2010,Ciprés,t,1,0,0,0,0
+58,Neuquen,2010,Pino,t,9808,0,119562,482,5058
+58,Neuquen,2010,Otras,t,2335,0,2514,0,0
+58,Neuquen,2010,Álamo,t,23605,0,742,11,0
+58,Neuquen,2010,Sauce,t,255,0,6075,0,900
+62,Rio Negro,2010,Ciprés,t,3194,0,139,0,0
+62,Rio Negro,2010,Pino,t,9685,0,1192,0,0
+62,Rio Negro,2010,Álamo,t,23252,0,6,16,1737
+62,Rio Negro,2010,Sauce,t,32475,0,0,0,0
+82,Santa Fe,2010,Pino,t,1024,0,0,0,0
+82,Santa Fe,2010,Álamo,t,206192,0,0,0,0
+82,Santa Fe,2010,Eucalipto,t,1410745,0,0,0,0
+82,Santa Fe,2010,Sauce,t,1995,0,0,0,0
+6,Buenos Aires,2011,Pino,t,24912,0,0,0,0
+6,Buenos Aires,2011,Álamo,t,1750462,0,0,0,0
+6,Buenos Aires,2011,Eucalipto,t,1152039,0,0,0,0
+6,Buenos Aires,2011,Sauce,t,2319375,0,0,0,0
+6,Buenos Aires,2011,Otras,t,7693,0,0,0,0
+26,Chubut,2011,Ciprés,t,94,0,0,2,5
+26,Chubut,2011,Pino,t,16993,0,6544,204,884
+26,Chubut,2011,Álamo,t,1522,0,167,5,11
+26,Chubut,2011,Sauce,t,0,0,11625,26,15
+14,Cordoba,2011,Pino,t,102800,0,0,0,0
+14,Cordoba,2011,Álamo,t,0,0,1230,0,0
+14,Cordoba,2011,Eucalipto,t,0,0,2578,0,0
+18,Corrientes,2011,Pino,t,7600416,0,0,0,0
+18,Corrientes,2011,Eucalipto,t,61949105,0,0,21760,14365
+18,Corrientes,2011,Paraiso,t,3915,0,0,0,0
+30,Entre Rios,2011,Pino,t,1093912,0,0,0,0
+30,Entre Rios,2011,Sauce,t,22878,0,0,0,0
+30,Entre Rios,2011,Álamo,t,48062,0,0,0,0
+30,Entre Rios,2011,Eucalipto,t,16784015,0,0,261749,6339215
+34,Formosa,2011,Paraiso,t,40,0,0,0,0
+38,Jujuy,2011,Pino,t,2708,0,0,0,0
+38,Jujuy,2011,Eucalipto,t,756704,0,0,4122,0
+38,Jujuy,2011,Otras,t,260,0,0,0,0
+42,La Pampa,2011,Álamo,t,40306,0,0,595,0
+42,La Pampa,2011,Eucalipto,t,0,0,68,0,0
+50,Mendoza,2011,Pino,t,904,0,0,0,0
+50,Mendoza,2011,Álamo,t,99107,0,0,0,0
+50,Mendoza,2011,Eucalipto,t,20825,0,0,0,0
+50,Mendoza,2011,Sauce,t,18675,0,0,0,0
+54,Misiones,2011,Pino,t,45089928,0,2568,76,0
+54,Misiones,2011,Araucaria,t,1302234,0,085,0,0
+54,Misiones,2011,Otras,t,2480554,0,0,0,0
+54,Misiones,2011,Eucalipto,t,24671845,0,42585,357,0
+54,Misiones,2011,Kiri,t,515821,0,902,0,0
+54,Misiones,2011,Paraiso,t,1080135,0,0,567,0
+58,Neuquen,2011,Ciprés,t,102913,0,0,0,0
+58,Neuquen,2011,Pino,t,18974,0,18464,5204,20
+58,Neuquen,2011,Álamo,t,23379,0,260,0,0
+58,Neuquen,2011,Sauce,t,198,0,1204,0,0
+58,Neuquen,2011,Otras,t,2516,0,0,0,0
+62,Rio Negro,2011,Ciprés,t,1986,0,50,21,0
+62,Rio Negro,2011,Pino,t,7820,0,24,0,0
+62,Rio Negro,2011,Otras,t,0,0,0,1,0
+62,Rio Negro,2011,Álamo,t,34429,0,427,8,1453
+62,Rio Negro,2011,Sauce,t,5,0,25,0,0
+82,Santa Fe,2011,Pino,t,196,0,0,0,0
+82,Santa Fe,2011,Álamo,t,113519,0,0,0,0
+82,Santa Fe,2011,Eucalipto,t,12951365,0,0,0,0
+6,Buenos Aires,2012,Pino,t,33112,0,0,0,0
+6,Buenos Aires,2012,Álamo,t,1554315,0,0,0,0
+6,Buenos Aires,2012,Eucalipto,t,1009001,0,0,0,0
+6,Buenos Aires,2012,Sauce,t,230001,0,0,0,0
+26,Chubut,2012,Ciprés,t,51,0,0,40,5
+26,Chubut,2012,Pino,t,10634,0,6544,51,16
+26,Chubut,2012,Álamo,t,947,0,167,0,8
+26,Chubut,2012,Sauce,t,0,0,11625,30,15
+14,Cordoba,2012,Pino,t,150000,0,0,0,0
+14,Cordoba,2012,Acacia negra,t,0,0,30,0,0
+14,Cordoba,2012,Eucalipto,t,0,380,6204,0,0
+14,Cordoba,2012,Otras,t,0,0,3510,0,0
+18,Corrientes,2012,Pino,t,23372872,0,0,0,0
+18,Corrientes,2012,Eucalipto,t,15683928,0,0,27874,255
+30,Entre Rios,2012,Pino,t,1593248,0,0,0,0
+30,Entre Rios,2012,Eucalipto,t,15498509,0,0,3636,22100
+30,Entre Rios,2012,Sauce,t,10623,0,0,0,0
+38,Jujuy,2012,Pino,t,3154,0,0,0,0
+38,Jujuy,2012,Álamo,t,45,0,0,0,0
+38,Jujuy,2012,Eucalipto,t,756976,0,0,2391,0
+38,Jujuy,2012,Sauce,t,4875,0,0,0,0
+38,Jujuy,2012,Otras,t,97,0,0,0,0
+42,La Pampa,2012,Pino,t,30,0,0,0,0
+42,La Pampa,2012,Álamo,t,3764,0,0,1582,0
+42,La Pampa,2012,Eucalipto,t,120,0,0,0,0
+50,Mendoza,2012,Álamo,t,99107,0,0,0,0
+50,Mendoza,2012,Eucalipto,t,16235,0,0,0,0
+50,Mendoza,2012,Otras,t,1554,0,0,0,0
+54,Misiones,2012,Araucaria,t,1033634,0,0,0,0
+54,Misiones,2012,Pino,t,43155808,0,0,0,0
+54,Misiones,2012,Kiri,t,515821,0,0,0,0
+54,Misiones,2012,Paraiso,t,1080608,0,0,0,0
+54,Misiones,2012,Otras,t,417915,0,0,0,0
+54,Misiones,2012,Eucalipto,t,1706664,0,0,0,0
+58,Neuquen,2012,Pino,t,15201,0,6283,290,99
+58,Neuquen,2012,Álamo,t,18152,0,613,0,0
+58,Neuquen,2012,Sauce,t,125,0,0,0,0
+62,Rio Negro,2012,Pino,t,12627,0,349,0,0
+62,Rio Negro,2012,Sauce,t,88125,0,102,0,0
+62,Rio Negro,2012,Otras,t,0,0,1267,7,0
+62,Rio Negro,2012,Álamo,t,17392,0,25,64,1684
+82,Santa Fe,2012,Pino,t,60,0,738,0,0
+82,Santa Fe,2012,Álamo,t,47187,0,0,0,0
+82,Santa Fe,2012,Eucalipto,t,101176,0,20988,60,201965
+82,Santa Fe,2012,Sauce,t,1479,0,0,0,0
+6,Buenos Aires,2013,Pino,t,93968,0,0,0,0
+6,Buenos Aires,2013,Eucalipto,t,5548375,0,0,0,0
+6,Buenos Aires,2013,Sauce,t,15270525,0,0,0,0
+6,Buenos Aires,2013,Álamo,t,1377362,0,0,0,0
+26,Chubut,2013,Ciprés,t,300315,0,673,607,1132
+26,Chubut,2013,Pino,t,94528,0,1576,74,1745
+26,Chubut,2013,Álamo,t,1310,0,249,0,205
+26,Chubut,2013,Sauce,t,0,0,900206,5,14
+14,Cordoba,2013,Pino,t,176000,0,0,0,0
+14,Cordoba,2013,Álamo,t,0,0,3312,0,0
+14,Cordoba,2013,Eucalipto,t,0,0,6144,0,0
+14,Cordoba,2013,Otras,t,0,0,2983,0,0
+18,Corrientes,2013,Pino,t,20580136,0,0,0,0
+18,Corrientes,2013,Eucalipto,t,163331155,0,0,2911845,5409
+30,Entre Rios,2013,Pino,t,1921488,0,0,0,0
+30,Entre Rios,2013,Álamo,t,541632,0,0,0,0
+30,Entre Rios,2013,Eucalipto,t,165539455,0,0,8373,58451
+30,Entre Rios,2013,Sauce,t,6386775,0,0,0,0
+38,Jujuy,2013,Pino,t,780,0,18720,0,0
+38,Jujuy,2013,Eucalipto,t,5728915,0,46520,3051,0
+38,Jujuy,2013,Otras,t,0,0,240,0,0
+38,Jujuy,2013,Álamo,t,0,0,182,0,0
+42,La Pampa,2013,Acacia negra,t,0,0,0,25,0
+42,La Pampa,2013,Álamo,t,1446,0,300,515,0
+42,La Pampa,2013,Eucalipto,t,65,35,250,0,0
+42,La Pampa,2013,Otras,t,0,0,158,0,0
+50,Mendoza,2013,Álamo,t,99107,0,0,0,0
+50,Mendoza,2013,Sauce,t,2753,0,0,0,0
+54,Misiones,2013,Araucaria,t,625464,0,0,1254,0
+54,Misiones,2013,Pino,t,49221376,0,785,16986,0
+54,Misiones,2013,Eucalipto,t,1983968,0,72092,8302,0
+54,Misiones,2013,Kiri,t,43542,0,5,1504,0
+54,Misiones,2013,Paraiso,t,1016213,0,0,0,0
+58,Neuquen,2013,Pino,t,13958,0,2550,14,172
+58,Neuquen,2013,Álamo,t,18605,0,8309,150,0
+58,Neuquen,2013,Acacia blanca,t,0,0,0,3,0
+62,Rio Negro,2013,Pino,t,8251,0,0,0,0
+62,Rio Negro,2013,Ciprés,t,2557,0,0,23,0
+62,Rio Negro,2013,Acacia blanca,t,4,0,0,1,0
+62,Rio Negro,2013,Álamo,t,28515,0,15,123,2649
+62,Rio Negro,2013,Sauce,t,0,0,184,0,0
+62,Rio Negro,2013,Otras,t,0,0,3338,0,0
+82,Santa Fe,2013,Eucalipto,t,114059,100,0,0,1231
+6,Buenos Aires,2014,Pino,t,33848,0,0,0,0
+6,Buenos Aires,2014,Álamo,t,1340815,0,0,0,0
+6,Buenos Aires,2014,Eucalipto,t,11467265,0,0,0,0
+6,Buenos Aires,2014,Sauce,t,745845,0,0,0,0
+26,Chubut,2014,Ciprés,t,259129,0,251,382,717
+26,Chubut,2014,Pino,t,9304,0,3282,140,186
+26,Chubut,2014,Álamo,t,11536,0,213,0,12
+26,Chubut,2014,Sauce,t,0,0,6525,1,0
+14,Cordoba,2014,Pino,t,167992,0,300000,480,160
+14,Cordoba,2014,Álamo,t,24500,0,0,0,0
+14,Cordoba,2014,Eucalipto,t,10200,0,20000,0,0
+18,Corrientes,2014,Pino,t,2169128,0,0,0,0
+18,Corrientes,2014,Eucalipto,t,14143728,0,0,40895,11266
+30,Entre Rios,2014,Pino,t,1783944,0,0,0,0
+30,Entre Rios,2014,Álamo,t,477337,0,0,0,0
+30,Entre Rios,2014,Eucalipto,t,123151825,0,0,14972,52518
+30,Entre Rios,2014,Sauce,t,1074705,0,0,0,0
+38,Jujuy,2014,Pino,t,6098,0,0,0,0
+38,Jujuy,2014,Eucalipto,t,514998,0,0,2185,0
+38,Jujuy,2014,Otras,t,0,0,130,0,0
+38,Jujuy,2014,Álamo,t,46,0,0,0,0
+42,La Pampa,2014,Acacia negra,t,0,0,0,25,0
+42,La Pampa,2014,Álamo,t,1420,0,0,120,0
+42,La Pampa,2014,Eucalipto,t,0,45,0,0,0
+50,Mendoza,2014,Álamo,t,99107,0,0,0,0
+54,Misiones,2014,Araucaria,t,462332,0,425,0,0
+54,Misiones,2014,Pino,t,3326948,0,1472,183,40
+54,Misiones,2014,Eucalipto,t,9446985,0,5882,0,26
+54,Misiones,2014,Kiri,t,346819,0,0,0,0
+54,Misiones,2014,Paraiso,t,742433,0,0,0,0
+54,Misiones,2014,Otras,t,1431678,0,8362,0,0
+58,Neuquen,2014,Pino,t,48002,0,14367,198,475
+58,Neuquen,2014,Ciprés,t,14,0,0,0,0
+58,Neuquen,2014,Sauce,t,98,0,22,0,0
+58,Neuquen,2014,Otras,t,0,0,473,0,0
+58,Neuquen,2014,Álamo,t,8624,0,1196,40,0
+58,Neuquen,2014,Eucalipto,t,7,0,0,0,0
+62,Rio Negro,2014,Pino,t,6223,0,0,0,0
+62,Rio Negro,2014,Acacia blanca,t,0,0,0,9,0
+62,Rio Negro,2014,Álamo,t,28842,0,0,6,0
+62,Rio Negro,2014,Sauce,t,17,0,8,0,0
+62,Rio Negro,2014,Otras,t,0,0,2216,0,0
+82,Santa Fe,2014,Pino,t,8448,0,37,0,0
+82,Santa Fe,2014,Álamo,t,19586,0,0,0,0
+82,Santa Fe,2014,Eucalipto,t,925939,0,0,0,2280
+6,Buenos Aires,2015,Álamo,t, 1589497,0,0,0,0
+6,Buenos Aires,2015,Eucalipto,t, 1875993,0,0,0,0
+6,Buenos Aires,2015,Sauce,t, 1522830,0,0,0,0
+6,Buenos Aires,2015,Pino,t, 15680,0,0,0,0
+14,Cordoba,2015,Eucalipto,t, 80480, 20000, 11260,0,0
+14,Cordoba,2015,Pino,t, 149952,0,0, 4800, 14750 
+14,Cordoba,2015,Otras,t,0,0, 50110,0,0
+18,Corrientes,2015,Eucalipto,t, 13230148,0,0, 518466, 110959 
+18,Corrientes,2015,Pino,t, 17525280,0,0,0,0
+26,Chubut,2015,Álamo,t, 9079,0, 3620,0,0
+26,Chubut,2015,Pino,t, 181959,0,0, 11580,0
+26,Chubut,2015,Otras,t,0,0, 83050,0,0
+30,Entre Rios,2015,Álamo,t, 178430,0,0,0,0
+30,Entre Rios,2015,Eucalipto,t, 15853690,0,0, 171972, 444159 
+30,Entre Rios,2015,Pino,t, 1132984,0,0,0,0
+30,Entre Rios,2015,Sauce,t, 356903,0,0,0,0
+38,Jujuy,2015,Álamo,t, 455,0,0,0,0
+38,Jujuy,2015,Eucalipto,t, 493748,0,0,0,0
+38,Jujuy,2015,Pino,t, 153520,0,0,0,0
+38,Jujuy,2015,Sauce,t, 3824,0,0,0,0
+38,Jujuy,2015,Grevillea,t, 975,0,0,0,0
+42,La Pampa,2015,Acacia negra,t, 105,0,0, 760,0
+42,La Pampa,2015,Álamo,t, 22750,0, 1020, 650,0
+42,La Pampa,2015,Eucalipto,t, 621,0, 50,0,0
+42,La Pampa,2015,Otras,t,0,0, 70,0,0
+50,Mendoza,2015,Álamo,t, 949991,0,0,0,0
+50,Mendoza,2015,Sauce,t, 10440,0,0,0,0
+50,Mendoza,2015,Eucalipto,t, 12546,0,0,0,0
+54,Misiones,2015,Araucaria,t, 604682,0,0,0,0
+54,Misiones,2015,Eucalipto,t, 2355087,0, 4353, 2729,0
+54,Misiones,2015,Kiri,t, 42788,0,0,0,0
+54,Misiones,2015,Paraiso,t, 102641,0,0,0,0
+54,Misiones,2015,Pino,t, 41406144,0, 2016, 1172,0
+54,Misiones,2015,Otras,t, 130218,0, 104, 225,0
+58,Neuquen,2015,Álamo,t, 173860,0, 8304, 3070, 140 
+58,Neuquen,2015,Pino,t, 346030,0, 143740, 570, 5572 
+58,Neuquen,2015,Cipres,t,0,0,0, 90,0
+58,Neuquen,2015,Otras,t,0,0,0,0,0
+62,Rio Negro,2015,Acacia blanca,t,0,0,0, 270,0
+62,Rio Negro,2015,Álamo,t, 265450,0,0, 270,0
+62,Rio Negro,2015,Pino,t, 52051,0,0,0,0
+62,Rio Negro,2015,Sauce,t,0,0,0,0,0
+62,Rio Negro,2015,Otras,t,0,0, 24200,0,0
+82,Santa Fe,2015,Álamo,t, 65422,0,0,0,0
+82,Santa Fe,2015,Eucalipto,t, 716814,0, 284990, 3730, 21250 
+66,Salta,2015,Eucalipto,t, 199223,0,0, 4500,0
+66,Salta,2015,Pino,t, 22264,0,0,0,0
+66,Salta,2015,Sauce,t, 2408,0,0,0,0
+66,Salta,2015,Paraiso,t, 2835,0,0,0,0
+66,Salta,2015,Toona,t, 1710,0,0,0,0
+66,Salta,2015,Otras,t,0,0, 24250,0,0
+86,Santiago Del Estero,2015,Eucalipto,t, 1630,0,0,0,0
+70,San Juan,2015,Álamo,t, 80115,0,0,0, 194565 
+90,Tucuman,2015,Álamo,t, 3192,0,0,0,0
+90,Tucuman,2015,Eucalipto,t, 63742,0,0,0,0
+90,Tucuman,2015,Pino,t, 200600,0,0,0,0
+6,Buenos Aires,2016,Acacia blanca,t,0,2,13,0,0
+6,Buenos Aires,2016,Álamo,t,237404,0,0,39,0
+6,Buenos Aires,2016,Eucalipto,t,245965,0,957,4595,0
+6,Buenos Aires,2016,Sauce,t,61096,0,0,0,0
+6,Buenos Aires,2016,Pino,t,102342,0,0,67,0
+6,Buenos Aires,2016,Otras,t,4192,0,0,0,0
+14,Cordoba,2016,Acacia blanca,t,0,0,12,0,0
+14,Cordoba,2016,Eucalipto,t,6311,0,5142,0,0
+14,Cordoba,2016,Pino,t,4480,0,0,0,0
+22,Chaco,2016,Eucalipto,t,619,0,0,0,0
+22,Chaco,2016,Pino,t,112,0,0,0,0
+18,Corrientes,2016,Eucalipto,t,1458765,0,0,36227,1100
+18,Corrientes,2016,Pino,t,1393566,0,0,0,0
+18,Corrientes,2016,Otras,t,255,0,0,0,0
+26,Chubut,2016,Álamo,t,945,0,171,0,0
+26,Chubut,2016,Pino sp,t,13968,0,1261,0,0
+26,Chubut,2016,Sauce,t,0,0,4730,0,0
+30,Entre Rios,2016,Álamo,t,36971,0,0,0,0
+30,Entre Rios,2016,Eucalipto,t,1749510,0,0,6060,37554
+30,Entre Rios,2016,Pino,t,185301,0,0,0,0
+30,Entre Rios,2016,Sauce,t,28818,0,0,0,0
+30,Entre Rios,2016,Otras,t,11,0,0,0,0
+38,Jujuy,2016,Eucalipto,t,49371,0,0,824,0
+38,Jujuy,2016,Pino,t,8306,0,0,0,0
+38,Jujuy,2016,Sauce,t,359,0,0,0,0
+42,La Pampa,2016,Acacia negra,t,0,0,0,55,0
+42,La Pampa,2016,Álamo,t,959,0,0,20,0
+42,La Pampa,2016,Eucalipto,t,0,0,30,0,0
+42,La Pampa,2016,Otras,t,0,0,155,0,0
+50,Mendoza,2016,Álamo,t,105260,0,0,0,0
+50,Mendoza,2016,Sauce,t,1044,0,0,0,0
+50,Mendoza,2016,Eucalipto,t,2040,0,0,0,0
+50,Mendoza,2016,Pino,t,79,0,0,0,0
+54,Misiones,2016,Araucaria,t,46566,0,0,0,0
+54,Misiones,2016,Eucalipto,t,557818,0,0,1232,0
+54,Misiones,2016,Kiri,t,5306,0,0,0,0
+54,Misiones,2016,Paraiso,t,12184,0,0,0,0
+54,Misiones,2016,Pino,t,4731902,0,0,0,0
+54,Misiones,2016,Otras,t,20517,0,0,0,0
+58,Neuquen,2016,Álamo,t,17890,0,552,0,0
+58,Neuquen,2016,Cupressus sp,t,28,0,0,0,0
+58,Neuquen,2016,Pinus sp,t,0,0,0,409,0
+58,Neuquen,2016,Pino murrayana,t,4509,0,2616,0,6
+58,Neuquen,2016,Pino oregon,t,160,0,0,0,0
+58,Neuquen,2016,Pino ponderosa,t,19247,0,29078,3,46
+58,Neuquen,2016,Sauce,t,0,0,864,2,59
+62,Rio Negro,2016,Acacia blanca,t,0,0,0,27,0
+62,Rio Negro,2016,Álamo,t,26545,0,0,27,0
+62,Rio Negro,2016,Pino insigne,t,910,0,0,0,0
+62,Rio Negro,2016,Pino murrayana,t,597,0,0,0,0
+62,Rio Negro,2016,Pino oregon,t,2252,0,0,0,0
+62,Rio Negro,2016,Pino ponderosa,t,1446,0,0,0,0
+62,Rio Negro,2016,Otras,t,0,0,2420,0,0
+82,Santa Fe,2016,Álamo,t,13099,0,0,0,0
+82,Santa Fe,2016,Eucalipto,t,70729,0,16489,0,1710
+66,Salta,2016,Eucalipto,t,19922,0,0,13597,0
+66,Salta,2016,Pino sp,t,2226,0,0,506,0
+66,Salta,2016,Sauce,t,241,0,4631,0,0
+66,Salta,2016,Otras,t,0,0,0,0,0
+86,Santiago Del Estero,2016,Eucalipto,t,163,0,0,0,0
+70,San Juan,2016,Álamo,t,8012,0,0,0,19457
+90,Tucuman,2016,Álamo,t,921,0,0,0,0
+90,Tucuman,2016,Eucalipto,t,6658,0,690,0,0
+90,Tucuman,2016,Pino,t,17508,0,0,0,0
+90,Tucuman,2016,Sauce,t,0,0,0,0,9
+90,Tucuman,2016,Otras,t,540,0,59,0,0

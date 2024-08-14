@@ -1,0 +1,24 @@
+Provincia de Misiones,Provincia,Misiones,IGN,54,MI,AR-N
+Provincia de San Luis,Provincia,San Luis,IGN,74,SL,AR-D
+Provincia de San Juan,Provincia,San Juan,IGN,70,SJ,AR-J
+Provincia de Entre Ríos,Provincia,Entre Ríos,IGN,30,ER,AR-E
+Provincia de Santa Cruz,Provincia,Santa Cruz,IGN,78,SC,AR-Z
+Provincia de Río Negro,Provincia,Río Negro,IGN,62,RN,AR-R
+Provincia del Chubut,Provincia,Chubut,IGN,26,CT,AR-U
+Provincia de Córdoba,Provincia,Córdoba,IGN,14,CB,AR-X
+Provincia de Mendoza,Provincia,Mendoza,IGN,50,MZ,AR-M
+Provincia de La Rioja,Provincia,La Rioja,IGN,46,LR,AR-F
+Provincia de Catamarca,Provincia,Catamarca,IGN,10,CA,AR-K
+Provincia de La Pampa,Provincia,La Pampa,IGN,42,LP,AR-L
+Provincia de Santiago del Estero,Provincia,Santiago del Estero,IGN,86,SE,AR-G
+Provincia de Corrientes,Provincia,Corrientes,IGN,18,CR,AR-W
+Provincia de Santa Fe,Provincia,Santa Fe,IGN,82,SF,AR-S
+Provincia de Tucumán,Provincia,Tucumán,IGN,90,TU,AR-T
+Provincia del Neuquén,Provincia,Neuquén,IGN,58,NQ,AR-Q
+Provincia de Salta,Provincia,Salta,IGN,66,SA,AR-A
+Provincia del Chaco,Provincia,Chaco,IGN,22,CH,AR-H
+Provincia de Formosa,Provincia,Formosa,IGN,34,FO,AR-P
+Provincia de Jujuy,Provincia,Jujuy,IGN,38,JY,AR-Y
+Ciudad Autónoma de Buenos Aires,Ciudad Autónoma,Ciudad Autónoma de Buenos Aires,IGN,2,CABA,AR-C
+Provincia de Buenos Aires,Provincia,Buenos Aires,IGN,6,BA,AR-B
+Provincia de Tierra-del-Fuego Antártida e Islas-del-Atlántico-Sur,Provincia,Tierra del Fuego,IGN,94,TF,AR-V

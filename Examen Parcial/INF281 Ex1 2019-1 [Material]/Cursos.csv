@@ -1,0 +1,80 @@
+INF377,Sistemas de Informacion Gerencial,4.00,INF245
+1MAT04,Algebra matricial y geometria analitica,4.50
+INF226,Desarrollo de Programas 1,3.00,INF245,INF265,1EST14
+INF388,Temas avanzados en Ing. Computadora 01,3.50,INF245,1MAT06,INF281,INF134
+IND231,Ingenieria Economica,3.50
+IEE229,Electronica Digital,3.75,INF134,1FIS06,1FIS07
+INF617,Gestion de Proyectos de Software,3.00,INF245
+INF309,Desarrollo de Videojuegos,3.50,INF282
+IND251,Gestion y Direccion de Empresas,3.50
+IEE240,Organizacion y Arquitectura de Computadoras,5.00,IEE229
+1FIS05,Laboratorio de fisica 2,0.50,1FIS04
+1QUI01,Quimica 1,3.50
+INF238,Redes de Computadoras,4.00,TEL201,INF239
+DER349,Derecho para Ingenieros Informaticos,3.00
+TEL201,Teoria de Comunicaciones,4.00,IEE240
+EST218,Estadistica para Ingenieria,3.50,1MAT07
+1FIS07,Laboratorio de fisica 3,0.40,1FIS06
+1EST14,Experimentacion Numerica,2.00,EST218,INF245
+1INF01,Fundamentos de programacion,3.00,1FIS02
+INF291,Metodos y Procedimientos,3.50,IND251
+1MAT05,Fundamentos de calculo,4.50
+INF227,Desarrollo de Programas 2,3.00,INF226
+1FIS01,Fundamentos de fisica,3.50
+INF370,Calidad de Software,3.00,INF245
+MAT237,Calculo Numerico,3.50,INF144,1MAT09
+IND281,Investigacion Operativa 2,4.00,IND273,INF265
+1LIN16,Trabajo academico,3.00,1LIN15
+INF234,Modelos y Simulacion Empresarial,3.50,IND231
+1FIS04,Fisica  2,4.50,1FIS02,1FIS03,1MAT07
+INF274,Administracion de Sistemas Operativos y Base de Datos,4.00,INF238,INF246
+IND290,Seguridad Integral,3.00
+INF392,Proyecto de Tesis 2,4.00,INF391
+INF008,Practica Supervisada Preprofesional,0.50,INF248
+INF371,Inteligencia Artificial,4.00,INF263,INF282
+INF282,Lenguaje de Programacion 2,5.00,INF281
+INF342,Seminario de Informatica,3.50,INF245
+1ING02,Dibujo en ingenieria,4.50,1MAT04
+INF353,Administracion de Sistemas Operativos,4.00,INF238,INF245
+1INF06,Estructura de datos y programacion metodica,4.50,INF144,INF263
+1INF04,Arquitectura de Sistemas de Informacion Empresarial,3.50,INF245
+1FIS06,Fisica  3,4.50,1FIS04,1FIS05
+INF263,Algoritmia,3.75,INF144
+IND275,Control de Gestion Industrial,4.50,IND231
+INF245,Ingenieria de Software,4.00,INF250,INF282
+INF250,Sistemas de Informacion 2,5.00,INF248,INF281
+1MAT06,Calculo diferencial,4.50,1MAT05,1MAT04
+1MAT09,Calculo aplicado,4.50,1MAT08
+INF391,Proyecto de Tesis 1,2.00,INF245,1EST14
+INF369,Seguridad de Informacion,3.00
+INF134,Estructuras discretas,4.50,1MAT07
+1INF03,Analisis de Datos,3.50,INF265,EST218,1EST14
+INF246,Bases de datos,3.75
+1FIS02,Fisica  1,4.50,1FIS01,1MAT06
+CDR121,Ciencia etica y cristianismo,3.50
+INF310,Teoria de grafos,3.00,INF282
+INF295,Planeamiento Estrategico en Informatica,3.50,INF245,IND231
+1MAT07,Calculo integral,4.50,1MAT06,1MAT04
+INF340,Auditoria de Sistemas y Tecnologias de Informacion,3.50
+INF144,Tecnicas de programacion,5.00,1INF01
+1LIN15,Comunicacion academica,3.00
+INF357,Inteligencia de Negocios,3.50,INF245
+1FIL01,Ciencia y filosofia,3.00
+INF281,Lenguaje de Programacion 1,5.00,1INF06,INF263
+1INF02,Aprendizaje de Maquina,3.50,INF265
+IND273,Investigacion Operativa 1,4.00,IND231,INF291
+1FIS03,Laboratorio de fisica 1,0.50,1FIS02
+1QUI02,Laboratorio de quimica 1,0.75,1QUI01
+ING220,etica Profesional,2.00
+INF239,Sistemas Operativos,4.00,INF281,IEE240
+INF378,Sistemas Expertos,4.00,INF282
+INF389,Temas avanzados en Computacion,3.00,INF245
+INF355,Seguridad Computacional,3.00,INF238
+CDR123,Pensamiento cristiano y realidad social,3.50
+INF273,Administracion de la Funcion Informatica,3.50,INF245
+INF265,Aplicaciones de Ciencias de la Computacion,4.00,INF263
+INF248,Sistemas de Informacion 1,5.00,INF246,INF291
+1MAT08,Calculo en varias variables,4.50,1MAT07
+INF320,Programacion en Dispositivos Moviles,3.00,INF282,INF245
+INF372,Graficos en Computacion,4.00,INF282
+1TE001,Ser humano y cristianismo en el siglo XXI,3.50

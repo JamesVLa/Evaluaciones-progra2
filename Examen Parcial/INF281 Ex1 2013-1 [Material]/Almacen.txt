@@ -1,0 +1,37 @@
+MB82598                 Camara    fotografica   modelo    FX1056             1454        699.50
+NL61668          Televisor  LCD   32.5  pulgadas marca   TVsitos             1382       2560.80
+FZ98234                               Memoria     USB 3    4    GB              595         78.20
+SW29687      Telefono celular marca MiTel N 83 con camara de 3.5             1427        766.25
+SB26669            Notebook modelo    M51G maraca   Lenovo                   1323       1599.90
+BF72860            Impresora    Laser color   Modelo  PVGR             556               987.23
+BB53001         Reproductor   DVD   marca   GRNA modelo 12.453         1091                120.85
+KS19431                Sintonizador digital con USB 2.0 y antena       962               139.90
+IO29421      Licuadora de   10   velocidades   con   filtro   128      987           169.46
+DX44682              Tostadora de pan con 4 slots           5632             1368    65.70
+OT32425      Smart TV 42" Led  3D Serie 7500  + Blu-ray DMP_BDT 2            1040             4889.75
+WS24612      Equipo se donido XBOOM  CM 8530 - 1800W                          1085         690.00
+YY65200      Reproductor de discos Blu-Ray 3D 300 W                          1197        745.25
+WL09498      Radio audiovisual AVH - P8450BT                               1416        1987.90
+JI98835      Audifonos    SE   - MJ511HP/K/W                           1228              129.50
+IT60920                       Home Theater Todoriki HTTP - RS 88       1001         2499.35
+CE69353              Parlantes inalambricos Bluetooth BTX 300       692           659.20
+CI87702                            Ipod     Dock     AD    7000W       1269          597.70
+HL94468                        MP3   SA     3   MXX   2   GB       1288          129.00
+IG92877                          Audifonos Action Fit SA4ACT04ON              961        230.50
+YW28008               Mini grabadora recargable GDM - 15                      748        199.00
+FT98440            Celular Nokia ASHA 308.3 SIM card 2                     1427        389.40
+RW87354                  Samsung Galaxy S III mini 3G                         928       1452.45
+UE09721              Sony XPERIA    Tecnologia 3G 1.5        GHz             1397             1582.65
+YF17264                         Estuche Flip cover Cod. 91125       749           69.90
+YR12572                       Samsung Galaxy Tab   2   WiFi 10.1       917          1197.20
+FQ88002                            Lapiz puntero Targus p/ipad 3       628           75.60
+TL56384                           HP    ENVY dv6   - 7382  LA             1090       3163.89
+JR86507      Equipo multifuncional Inyeccion de tinta MFC - J825D            1217        456.12
+UK47509   Equipo laser multifuncional monocromatico DCP - 7065             619        645.10
+BP15881                      HandyCam PJ 430.4 Full HD zoom 30.5              513       2679.60
+YW80393      Cyber-Shot Serie WX 200 LCD 2.7                           1287      876.30
+ZY49698  Camara Digital Casio QV - R 300 LCD 3.45                  1303      287.25
+TT61626      Centro de kavado electrico FFLE - 1011 MW cap/kg  16      854            3675.78
+UH03336              Cocina electrica / Panel digital FFGF 304LS             1477   2531.30
+JS27568          Cocina a gas / meza vitroceramica FFEF 3013              1176       2341.80
+BL95867              Refrigeradora     No frost   500 lt    cap.              612       2987.56

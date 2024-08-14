@@ -1,0 +1,98 @@
+CIV224           4.5    Analisis Estructural 1
+CIV283           3.5          Instalaciones de Edificaciones
+CIV284           3.5       Planificacion de la Construccion
+CIV307     3.5 Concreto Armado 2
+CIV308        3.5 Estructuras de Acero
+CIV309           3.5          Diseno de Estructuras Especiales
+CIV313     3.5    Puentes
+CIV314     3.5    Croncreto Pretensado
+CIV364           3.5       Albanileria Estructural
+DEC210              3.0       Personas Juridicas
+DEC222     4.0    Derecho Procesal Civil 1
+DEC231           3.0          Derecho Civil 6: Familia
+DEE204           3.0 Derecho Administrativo 2
+DEE207           3.0       Derecho Internacional Publico
+DEE214              3.0       Derecho Constitucional 1
+DEE215     3.0 Derecho Constitucional 2
+DEL203     3.0          Derecho Laboral General
+DEL204        3.0       Derecho Laboral Especial
+DER202        3.0    Sociologia del Derecho
+DER205        3.0    Filosofia del Derecho
+DET211              3.0    Legislacion Tributaria
+FIS308           4.5 Mecanica Cuantica 1
+FIS309     4.5 Mecanica Cuantica 2
+FIS335           4.0 Acustica
+FIS338     4.0          Seminario de Fisica
+FIS366              3.5 Electroacustica
+IEE203              4.5    Circuitos Analogicos
+IEE212              3.5          Circuitos Electricos 2
+IEE213        3.5 Dibujo Electrotecnico
+IEE217              3.5 Sistemas Electricos
+IEE313        3.0       Microelectronica
+IEE331              3.5    Diseno de Redes de Computadoras
+IEE332        1.0       Laboratorio de Redes de Computadoras
+IEE341           3.5    Propagacion y Radiacion Electromagnetica
+IEE351           3.5    Temas de Ingenieria Electronica
+IND213        3.5          Ingenieria de Plantas
+IND221           3.0 Automatizacion Industrial
+IND350     3.0    Plan de Negocios
+IND352     3.5          Procesos de Decision
+IND361           3.0          Gestion de Recursos Humanos
+IND362     3.5    Mantenimiento Industrial
+IND374        3.0 Temas de Investigacion de Operaciones
+IND375     3.0    Temas de Gestion
+IND376           3.0       Temas de Operaciones
+INF227        3.0    Desarrollo de Programas 2
+INF239           4.0          Sistemas Operativos
+INF245           4.0 Ingenieria de Software
+INF248     5.0       Sistemas de Informacion 1
+INF265     4.0       Aplicaciones de Ciencias de la Computacion
+INF274              4.0 Administracion de Sistemas Operativos
+INF281           5.0       Lenguaje de Programacion 1
+INF627           3.0       Programacion en el Sistema UNIX
+INF630        3.0    Base de Datos 2
+INF639     3.0    Proceso de Construccion de Software 1
+INF640     3.0       Proceso de Construccion de Software 2
+ING301        3.5       Manufactura Integrada por Computadora
+LIT201           4.0 Literatura Medieval Espanola
+LIT204     4.0 Literatura Contemporanea Espanola
+LIT209     4.0 Lirica peruana contemporanea
+LIT234           4.0 Lirica espanola de la edad de oro
+LIT237     4.0       Teoria literaria contemporanea 2
+LIT244           4.0       Literatura Peruana del siglo XIX
+LIT246        2.0    Deontologia y lingüistica y literatura
+LIT284        4.0    Seminario de tesis 1
+LIT306        4.0    Critica Textual
+LIT312        4.0          Teatro Espanol de la Edad de Oro
+LIT313        4.0          Narrativa espanola de la edad de oro
+MAT218     4.5 Ecuaciones Diferenciales Aplicadas
+MAT244     4.5          Algebra Lineal y Multilineal
+MAT245              3.5          Logica Matematica y Teoria de Conjuntos
+MAT251           4.5       Geometria
+MAT253     4.5 Topologia
+MEC206           4.5    Termodinamica 1
+MEC208        4.5          Termodinamica 2
+MEC227     3.0    Dibujo Mecanico 2
+MEC298              4.0       Proyecto de Ingenieria Mecanica 2
+MEC299     3.8          Motores de Combustion Interna
+MEC2M1           4.5          Elementos de Maquinas 1
+MEC337        3.0          Refrigeracion y Aire Acondicionado
+MEC346           3.0       Corrosion
+MEC348           3.0    Ingenieria de Combustibles Gaseosos
+MEC350              3.0          Metalurgia de la Soldadura
+MIN227     4.8 Topografia Minera
+MIN248     4.5    Transporte en Minas
+MIN250              5.0    Geologia de Yacimientos Minerales
+MIN258              5.5          Mineralogia y Petrologia
+MIN260              4.5       Perforacion y Voladura
+MIN266     5.5    Mecanica de Rocas
+MIN269        5.5          Concentracion de Minerales
+MIN344     3.5 Plan de Cierre y Recuperacion en Minas
+MIN346           3.5          Simulacion de Operaciones Mineras
+QUI204        4.0       Quimica Inorganica 1
+QUI206              3.0 Quimica Analitica 1
+QUI208        3.0    Quimica Analitica 2
+QUI211        2.0    Trabajo de Investigacion 1
+QUI221     4.0    Quimica Organica 1
+QUI223     4.0 Quimica Organica 2
+QUI237     3.0 Quimica Inorganica 3

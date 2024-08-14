@@ -1,0 +1,54 @@
+1      CASTILLO/MEJIA/GUSTAVO-ALONSO                                     MEC298         LIT244     DEC222       DEE215       IEE332
+ 2      SAENZ/ARANDA/WILMER                              ING301   INF640   CIV314   MAT253         FIS366         INF274
+ 3    CALIXTO/TORRES/MIGUEL                            DEE204                    MAT244     IND375         LIT209         IND352
+ 4  ZARATE/URBINA/DELIA                          IND221         INF227     INF239   IEE313   DET211  
+ 5        ZAMORA/CABRERA/CARMEN                              IND352         IEE203              MEC206   MIN269        
+ 6  CABRERA/MORENO/DELIA-ESTEFANIA                     LIT244                IND374   IEE341                  INF627
+ 7        FLORENCIO/POLO/FIORELLA-ERIKA                CIV307   IEE213       IND374     CIV224         CIV313     CIV309
+ 8    CHUNG/ZUNIGA/ZKENIA-IRMA                     IEE217     IND221     LIT312   INF274         IEE351     IEE213
+ 9    JOLAY/CHUMPITAZ/WALTER                           INF639       DET211   IND352       MIN258   CIV307      
+10        TABORI/ARIAS/ROSARIO                               LIT209     MIN346         DEC222   FIS308                DER205
+11      RODRIGUEZ/SERRANO/CESAR-JAIME                                   QUI237         INF640       IEE313     DEE207  
+12    VILCARA/JUGO/JULIO                             IND375                    IEE351     DEL203                      ING301
+13    AMEZQUITA/CONTRERAS/HUMBERTO-ALFONSO               DEC231                      QUI204     DEL204         FIS309   MEC208
+14        SHIRAKAWA/FLORIAN/JAIME-JULIAN                   MEC208                        FIS338                DEC222     MIN248
+15      COLLADO/VILLA/RAUL                             MEC298                      IND361   MIN258     FIS309         IEE341
+16      PEREZ/ANTEZANO/DAVID-CARLOS                        CIV283     MAT245                                              IND375
+17      ZEGARRA/CABELLO/CINTHIA-MILENA               IEE213              IND221         MIN227         CIV308   FIS366
+18        NORABUENA/ZEGARRA/DELICIA                          IND221     IEE213         INF248                    QUI211       MIN250
+19        ACUNA/AYLLON/BLANCA-LUZ                          MAT253     MIN269       LIT306   IND350       CIV284    
+20        URBINA/ANTEZANO/VALENTINA-PAULA                           CIV313     CIV224   QUI223         MIN250       IND374
+21        GONZALES/AGUIRRE/EMILIO-EMIGDIO              IND376   DEC210         IEE203         DER205     IEE332   CIV284
+22    MORI/SUAREZ/EDILBERTO-JESUS                    MIN250     IEE331            DEC210                     
+23        VARGAS/GUEVARA/HUMBERTO-ALBERTO              MIN248         MEC208                         QUI206         CIV364
+24  ARANDA/MINAYA/JANET-CINTHIA                                     FIS366     FIS335       IEE203       CIV284    
+25        JAUREGUI/BRAVO/LUZ-SOFIA                           DEC231         DEE215     LIT284       FIS309   LIT204     CIV283
+26  PRECIADO/PINTO/SURAMI-HELI                   MIN346                           DEC210     QUI208         IEE213
+27      CABELLO/LAM/ALFONSO-WALDEMAR                 IND221   MEC227         IEE351       DEE204                  LIT312
+28      GARCIA/ASTETE/VICTOR-EDGAR                     FIS366         DET211         MEC227       QUI204   IND213       CIV224
+29  MERCADO/CARO/OFELIA-CARMEN                   FIS308       IND221     QUI221         MAT218       MEC337    
+30  ARCA/AQUINO/DELICIA                              MEC227         IEE217     IND352                                 MEC208
+31        MEJIA/ZEGARRA/GIOVANA                                         MIN258         CIV283       DEE207   IEE212       LIT306
+32  ZARATE/ACUNA/MILENA-CINTHIA                    DEE214     LIT209              INF274         LIT201   IND374
+33        ZIMIC/SALAS/FRANCISCO                        MEC227                  LIT312                    MEC346         LIT244
+34  LANDEO/ESTRADA/MIGUEL-ALEX                   INF245   QUI211       MEC206       MEC2M1   INF281       INF630
+35    ARCA/LEIVA/DELICIA-ROSA                      INF265         INF239   INF627       IND221   IND213       IND374
+36        ORTIZ/GUEVARA/YLIANA-FLOR                      LIT237                MEC227                IND375  
+37  AYALA/ZEVALLOS/JOHAN-ENRIQUE                   MEC337              INF239            DEE215     IEE203
+38    DEL/CASTILLO CHUNG/FELICITA-ERIKA                  QUI206       CIV313       IND352              INF630    
+39    SHIRAKAWA/SAONA/VICTORIA-MILAGROS                QUI206         IEE203         IEE217         QUI223       INF274     IND350
+40  MARTEL/MERCADO/TERESA-TERESA                     IEE351         CIV313       IEE203     IEE313     DEC210         IEE212
+41        GARCIA/INGA/MARINA-NATALIA                         CIV307       MEC299         INF248   MIN248                        QUI211
+42      YEP/ZAVALETA/ROSARIO-MARIBEL                       MEC337       MEC298       QUI206         MAT244     QUI221   INF639
+43    MUNOZ/VERGEL/EDGAR                               MAT245     CIV224         FIS335         INF274   INF281   INF239
+44      MONTERO/BOLANOS/OFELIA-BEATRIZ               CIV308         LIT201     IND362         IEE313                MIN227
+45  CABRERA/MORI/GLENDA                                QUI206                  MIN266       IEE351       FIS338       MAT251
+46    LANDA/CABRERA/JAVIER-EDGARD                        IND213       MEC2M1                CIV309         IND374   QUI211
+47        CUBA/POMAJAMBO/VICTORIA-FIORELLA             FIS366   INF639     ING301         MIN346     QUI208         QUI204
+48        PORTUGAL/RAFFO/ALEXANDER                     INF627            INF640         DEE214       MIN269       DEE207
+49    YALLICO/PAREDES/LOURDES-CARMELA                    DEE207       IND221                      IND362     INF639     MEC206
+50  ZEGARRA/CASANOVA/ESTEFANIA                       MEC227     IND352                  LIT284     FIS308     IND221
+51    CHANG/SEGURA/ANGEL                             LIT244       DEC210       LIT237       MEC346                    LIT284
+52      ORTIZ/EPIQUEN/HENRY-ISRAEL                   DEE204   INF639   LIT209   MIN269       DEE214    
+53  GARCIA/YINO/AMERICO-WALDEMAR                     MIN344   QUI208       IEE212   MEC206   MIN260       DER205
+54        BRAVO/VIZCARRA/ROBERTO                         IND376       MAT253     INF281     IEE213       DER202   LIT306

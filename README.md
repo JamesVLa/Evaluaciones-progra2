@@ -43,5 +43,5 @@ En el siguiente listado se presentan las equivalencias entre los laboratorios de
 | 22-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
 | 22-2 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
 | 23-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
-| 23-2 |      |  X   |  X   |  X   |  X   |  X   |      |  X   |      |       |  X  |  X  |
+| 23-2 |      |  X   |  X   |  X   |  X   |  X   |      |  X   |  X   |   X   |  X  |  X  |
 | 24-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |

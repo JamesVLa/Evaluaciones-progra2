@@ -61,7 +61,7 @@ A continuación se presenta una tabla que registra las evaluaciones que se han p
 | 22-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
 | 22-2 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
 | 23-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
-| 23-2 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
+| 23-2 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |      |  X   |   X   |  X  |  X  |
 | 24-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
 ## Contribuciones
 

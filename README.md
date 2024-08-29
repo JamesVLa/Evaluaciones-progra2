@@ -52,7 +52,7 @@ A continuación se presenta una tabla que registra las evaluaciones que se han p
 | 17-2 |  X   |      |      |      |      |      |  X   |      |      |       |  X  |  X  |
 | 18-1 |  X   |      |  X   |  X   |  X   |      |  X   |      |  X   |   X   |  X  |     |
 | 18-2 |  X   |      |  X   |      |  X   |  X   |  X   |      |      |   X   |  X  |  X  |
-| 19-1 |  X   |      |  X   |      |      |      |  X   |  X   |      |   X   |  X  |  X  |
+| 19-1 |  X   |      |  X   |      |      |      |      |  X   |      |   X   |  X  |  X  |
 | 19-2 |  X   |  X   |  X   |  X   |  X   |      |  X   |  X   |      |   X   |  X  |  X  |
 | 20-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
 | 20-2 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |       |  X  |  X  |

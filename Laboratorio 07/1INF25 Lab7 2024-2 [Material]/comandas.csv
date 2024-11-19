@@ -1,0 +1,200 @@
+142,B,Cafe,2,grande
+142,B,Agua Mineral,2.5,pequeno
+142,E,Quesadillas,5.5,sin picante
+142,E,Bruschetta,4,picante
+142,P,Pasta Alfredo,10,0,1,0,1
+142,P,Pollo a la Brasa,15,1,1,1,1
+161,B,Agua Mineral,2.5,mediano
+161,B,Coca-Cola,3.5,grande
+161,E,Quesadillas,5.5,sin picante
+161,E,Ensalada Cesar,6,picante
+161,E,Nachos,5,picante
+161,E,Ensalada Cesar,6,sin picante
+169,B,Jugo de Naranja,4,mediano
+169,P,Pasta Alfredo,10,0,0,0,1
+180,B,Jugo de Naranja,4,pequeno
+180,B,Jugo de Naranja,4,mediano
+180,B,Cafe,2,mediano
+180,E,Nachos,5,sin picante
+180,P,Ceviche,9,0,1,0,1
+191,B,Cafe,2,pequeno
+191,B,Cafe,2,mediano
+191,E,Bruschetta,4,sin picante
+191,P,Strogonoff,25.75,1,0,1,0
+194,B,Cafe,2,mediano
+194,E,Ensalada Cesar,6,picante
+200,B,Sprite,3,mediano
+200,B,Cafe,2,mediano
+200,B,Coca-Cola,3.5,mediano
+214,B,Sprite,3,pequeno
+228,E,Quesadillas,5.5,picante
+228,P,Filete de Pescado,11,0,1,1,0
+299,E,Guacamole,4.5,sin picante
+299,E,Nachos,5,picante
+299,P,Hamburguesa,8.5,1,0,0,0
+327,B,Cafe,2,mediano
+327,B,Jugo de Naranja,4,grande
+327,B,Agua Mineral,2.5,grande
+327,E,Bruschetta,4,sin picante
+327,P,Hamburguesa,8.5,0,0,1,0
+328,B,Coca-Cola,3.5,grande
+328,P,Ceviche,9,0,0,1,0
+328,P,Pasta Alfredo,10,0,1,1,1
+328,P,Hamburguesa,8.5,0,1,1,0
+358,E,Nachos,5,picante
+358,E,Guacamole,4.5,picante
+358,E,Quesadillas,5.5,picante
+364,B,Cafe,2,grande
+364,B,Coca-Cola,3.5,pequeno
+364,B,Jugo de Naranja,4,mediano
+364,E,Ensalada Cesar,6,picante
+364,P,Ceviche,9,0,0,0,1
+364,P,Pollo a la Brasa,15,0,1,1,1
+372,B,Coca-Cola,3.5,pequeno
+372,E,Guacamole,4.5,sin picante
+400,B,Sprite,3,mediano
+400,E,Guacamole,4.5,picante
+400,E,Guacamole,4.5,sin picante
+418,B,Coca-Cola,3.5,grande
+418,B,Jugo de Naranja,4,pequeno
+418,E,Nachos,5,picante
+418,E,Ensalada Cesar,6,sin picante
+438,P,Strogonoff,25.75,0,1,1,1
+438,P,Pollo a la Brasa,15,0,1,1,0
+438,P,Pollo a la Brasa,15,0,0,1,1
+465,B,Sprite,3,mediano
+465,E,Nachos,5,picante
+465,E,Ensalada Cesar,6,sin picante
+465,E,Quesadillas,5.5,sin picante
+465,P,Lomo Saltado,12,0,1,1,1
+465,P,Pollo a la Brasa,15,0,1,0,0
+526,B,Coca-Cola,3.5,grande
+526,B,Jugo de Naranja,4,grande
+526,B,Jugo de Naranja,4,mediano
+526,E,Bruschetta,4,sin picante
+526,E,Ensalada Cesar,6,sin picante
+526,E,Bruschetta,4,picante
+526,P,Strogonoff,25.75,0,0,1,1
+526,P,Hamburguesa,8.5,1,0,1,0
+554,B,Cafe,2,pequeno
+554,B,Cafe,2,pequeno
+554,E,Ensalada Cesar,6,sin picante
+554,E,Quesadillas,5.5,picante
+554,P,Filete de Pescado,11,0,1,0,1
+554,P,Ceviche,9,1,0,0,1
+554,P,Pasta Alfredo,10,0,1,1,0
+556,B,Coca-Cola,3.5,grande
+556,E,Bruschetta,4,sin picante
+556,E,Ensalada Cesar,6,sin picante
+556,E,Nachos,5,sin picante
+556,E,Bruschetta,4,sin picante
+556,P,Pollo a la Brasa,15,1,0,1,0
+596,E,Nachos,5,picante
+596,E,Guacamole,4.5,sin picante
+596,P,Pasta Alfredo,10,1,0,0,0
+596,P,Ceviche,9,1,0,0,0
+648,E,Ensalada Cesar,6,picante
+648,P,Strogonoff,25.75,0,0,0,1
+648,P,Ceviche,9,1,0,1,1
+654,E,Guacamole,4.5,picante
+654,P,Lomo Saltado,12,1,1,1,0
+660,B,Agua Mineral,2.5,mediano
+660,E,Ensalada Cesar,6,sin picante
+660,E,Nachos,5,sin picante
+660,P,Hamburguesa,8.5,1,0,0,1
+684,P,Pasta Alfredo,10,1,0,1,1
+684,P,Pollo a la Brasa,15,0,0,1,1
+684,P,Strogonoff,25.75,1,0,0,0
+684,P,Strogonoff,25.75,0,0,1,0
+684,P,Pollo a la Brasa,15,1,0,1,1
+692,E,Nachos,5,picante
+692,E,Ensalada Cesar,6,picante
+692,P,Pollo a la Brasa,15,1,0,1,1
+705,B,Cafe,2,mediano
+705,B,Sprite,3,grande
+706,P,Pollo a la Brasa,15,0,1,1,1
+727,B,Sprite,3,mediano
+727,P,Filete de Pescado,11,1,0,1,1
+727,P,Pasta Alfredo,10,0,0,1,1
+734,P,Pasta Alfredo,10,1,0,1,0
+734,P,Filete de Pescado,11,1,1,1,1
+734,P,Strogonoff,25.75,0,1,0,1
+738,B,Agua Mineral,2.5,mediano
+738,B,Jugo de Naranja,4,grande
+738,E,Ensalada Cesar,6,sin picante
+738,P,Pollo a la Brasa,15,1,0,1,0
+738,P,Hamburguesa,8.5,0,0,0,0
+738,P,Strogonoff,25.75,1,1,0,1
+767,E,Bruschetta,4,picante
+767,P,Hamburguesa,8.5,0,0,1,0
+787,B,Coca-Cola,3.5,mediano
+787,E,Quesadillas,5.5,sin picante
+787,E,Bruschetta,4,picante
+787,E,Ensalada Cesar,6,sin picante
+787,P,Filete de Pescado,11,0,0,1,0
+812,B,Sprite,3,grande
+812,B,Jugo de Naranja,4,grande
+812,B,Jugo de Naranja,4,mediano
+812,E,Ensalada Cesar,6,sin picante
+812,P,Strogonoff,25.75,1,0,0,0
+812,P,Ceviche,9,1,1,1,1
+812,P,Pasta Alfredo,10,0,0,1,0
+812,P,Hamburguesa,8.5,1,0,0,1
+815,P,Strogonoff,25.75,1,1,1,1
+815,P,Ceviche,9,0,1,1,1
+820,E,Nachos,5,sin picante
+820,E,Bruschetta,4,sin picante
+820,P,Ceviche,9,1,1,1,1
+836,B,Cafe,2,mediano
+836,B,Sprite,3,mediano
+836,E,Ensalada Cesar,6,sin picante
+836,P,Pasta Alfredo,10,0,1,1,0
+837,B,Coca-Cola,3.5,pequeno
+837,B,Coca-Cola,3.5,grande
+837,E,Ensalada Cesar,6,sin picante
+837,P,Ceviche,9,1,1,1,1
+837,P,Hamburguesa,8.5,1,1,0,1
+841,B,Jugo de Naranja,4,pequeno
+841,E,Ensalada Cesar,6,sin picante
+841,E,Ensalada Cesar,6,sin picante
+841,E,Ensalada Cesar,6,sin picante
+841,E,Nachos,5,sin picante
+841,P,Pollo a la Brasa,15,0,0,0,0
+844,P,Pollo a la Brasa,15,1,1,1,1
+844,P,Ceviche,9,0,1,0,1
+844,P,Strogonoff,25.75,0,0,0,0
+858,B,Sprite,3,pequeno
+858,B,Jugo de Naranja,4,pequeno
+858,P,Strogonoff,25.75,0,0,1,1
+858,P,Ceviche,9,0,0,1,1
+858,P,Ceviche,9,0,0,1,1
+876,B,Agua Mineral,2.5,mediano
+876,E,Ensalada Cesar,6,sin picante
+876,E,Bruschetta,4,sin picante
+876,E,Quesadillas,5.5,sin picante
+876,P,Lomo Saltado,12,0,1,0,0
+879,B,Jugo de Naranja,4,grande
+879,E,Quesadillas,5.5,sin picante
+879,P,Pollo a la Brasa,15,1,1,0,0
+879,P,Hamburguesa,8.5,0,1,1,1
+936,B,Coca-Cola,3.5,pequeno
+936,P,Lomo Saltado,12,0,1,1,1
+936,P,Pollo a la Brasa,15,0,0,0,1
+947,B,Cafe,2,pequeno
+947,B,Jugo de Naranja,4,grande
+947,E,Nachos,5,picante
+972,B,Cafe,2,mediano
+972,B,Coca-Cola,3.5,mediano
+972,B,Agua Mineral,2.5,pequeno
+972,B,Jugo de Naranja,4,mediano
+972,E,Bruschetta,4,picante
+972,E,Guacamole,4.5,sin picante
+972,P,Pollo a la Brasa,15,0,1,0,0
+972,P,Pasta Alfredo,10,0,1,1,1
+981,B,Sprite,3,pequeno
+981,B,Sprite,3,grande
+981,P,Strogonoff,25.75,0,1,0,0
+981,P,Ceviche,9,0,1,0,0
+994,B,Agua Mineral,2.5,mediano
+994,B,Jugo de Naranja,4,mediano
+994,B,Cafe,2,pequeno

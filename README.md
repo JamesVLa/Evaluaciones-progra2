@@ -22,14 +22,14 @@ Este repositorio está diseñado para servir como una guía de referencia rápid
 A continuación se presenta una lista de los temas abordados en cada uno de los laboratorios del curso Pro2 (1INF25), según lo indicado por los profesores del curso:
 
 1. **Lab 1**: Sobrecarga de operadores - Bibliotecas estáticas
-2. **Lab 2**: Arreglos y punteros - Método exacto
-3. **Lab 3**: Arreglos y punteros - Método por incrementos
-4. **Lab 4**: Arreglos y punteros - Punteros genéricos
-5. **Lab 5**: Arreglos y punteros - Listas genéricas
+2. **Lab 2**: Arreglos y punteros - Método por incrementos y exacto
+3. **Lab 3**: Arreglos y punteros - Punteros genéricos
+4. **Lab 4**: Arreglos y punteros - Listas genéricas
+5. **Lab 5**: Integrador 1
 6. **Lab 6**: POO - Sobrecarga de operadores
 7. **Lab 7**: POO - Herencia
 8. **Lab 8**: POO - Listas ligadas - Polimorfismo
-9. **Lab 9**: POO - STL
+9. **Lab 9**: POO - STL - Integrador 2
 10. **Lab 10**: Java
 
 ## Evaluaciones Pro2

@@ -1,21 +1,4 @@
-Este repositorio está diseñado para servir como una guía de referencia rápida para estudiantes que buscan comprender las equivalencias entre los laboratorios del curso *Lenguaje de Programación 1 (INF281)* (ahora reemplazado por *Programación 2 (1INF25)*) y *Programación 2 (1INF25)*. Además, se incluye un registro de evaluaciones realizadas en cada curso durante diferentes ciclos académicos.
-
-## Equivalencias entre LP1 y Pro2
-
-- **Lab 1 Pro2 (1INF25)** = Lab 3 LP1 (INF281)
-- **Lab 2 Pro2 (1INF25)** = Lab 4/EX1 LP1 (INF281)
-- **Lab 3 Pro2 (1INF25)** = Lab 5/EX1 LP1 (INF281)
-- **Lab 4 Pro2 (1INF25)** = EX1 LP1 (INF281)
-- **Lab 5 Pro2 (1INF25)** = Lab 6 LP1 (INF281)
-- **Lab 6 Pro2 (1INF25)** = Lab 7 LP1 (INF281)
-- **Lab 7 Pro2 (1INF25)** = Lab 8 LP1 (INF281)
-- **Lab 8 Pro2 (1INF25)** = Lab 9/EX2 LP1 (INF281)
-- **Lab 9 Pro2 (1INF25)** = Lab 10/EX2 LP1 (INF281)
-- **Lab 10 Pro2 (1INF25)** = No tiene equivalencia en LP1 (INF281). Se recomienda realizar del Lab 6 al Lab 9 utilizando Java.
-
-### Observaciones Adicionales
-
-- A partir del ciclo 2023-2, el curso LP1 (INF281) se considera equivalente a Pro2 (1INF25).
+Este repositorio está diseñado para servir como un registro de evaluaciones sobre programación 2 durante diferentes ciclos académicos.
 
 ## Temas de los Laboratorios de Pro2
 
@@ -63,7 +46,8 @@ A continuación se presenta una tabla que registra las evaluaciones que se han p
 | 23-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
 | 23-2 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
 | 24-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |  X  |  X  |
-| 24-2 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |       |     |     |
+| 24-2 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |   X   |     |     |
+| 25-1 |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |  X   |       |     |     |
 ## Contribuciones
 
 Si encuentras alguna discrepancia o tienes sugerencias para mejorar esta guía, no dudes en abrir un issue o realizar un pull request. ¡Toda ayuda es bienvenida!

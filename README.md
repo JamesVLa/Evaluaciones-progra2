@@ -8,11 +8,11 @@ A continuación se presenta una lista de los temas abordados en cada uno de los 
 2. **Lab 2**: Arreglos y punteros - Método por incrementos y exacto
 3. **Lab 3**: Arreglos y punteros - Punteros genéricos
 4. **Lab 4**: Arreglos y punteros - Listas genéricas
-5. **Lab 5**: Integrador 1
+5. **Lab 5**: POO - Arreglo de objetos
 6. **Lab 6**: POO - Sobrecarga de operadores
 7. **Lab 7**: POO - Herencia
 8. **Lab 8**: POO - Listas ligadas - Polimorfismo
-9. **Lab 9**: POO - STL - Integrador 2
+9. **Lab 9**: POO - STL
 10. **Lab 10**: Java
 
 ## Evaluaciones Pro2
